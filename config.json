@@ -1,0 +1,12 @@
+{
+  "email_recipient": "you@example.com",
+  "sites": [
+    {
+      "name": "Union Jobs - Florida",
+      "url": "https://unionjobs.com/location.php?state=Florida",
+      "base_url": "https://unionjobs.com",
+      "job_link_pattern": "/listing.php?id=",
+      "state_file": "state/unionjobs_florida.json"
+    }
+  ]
+}
