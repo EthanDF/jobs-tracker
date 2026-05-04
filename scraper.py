@@ -52,6 +52,11 @@ def fetch_jobs(site):
     resp.raise_for_status()
 
     soup = BeautifulSoup(resp.text, "html.parser")
+    # id_source controls how the unique job ID is extracted from the URL:
+    #   "query" (default) — pulls the numeric id from ?id=123
+    #   "slug"            — uses the last path segment (e.g. /job-posting/some-title/)
+    id_source = site.get("id_source", "query")
+
     jobs = {}
 
     for a in soup.find_all("a", href=True):
@@ -59,11 +64,17 @@ def fetch_jobs(site):
         if pattern not in href:
             continue
 
-        # Extract the unique ID from the URL query string
-        match = re.search(r"[?&]id=(\d+)", href)
-        if not match:
+        if id_source == "slug":
+            # Strip trailing slash and grab the last path component
+            job_id = href.rstrip("/").rsplit("/", 1)[-1]
+        else:
+            match = re.search(r"[?&]id=(\d+)", href)
+            if not match:
+                continue
+            job_id = match.group(1)
+
+        if not job_id:
             continue
-        job_id = match.group(1)
 
         title = a.get_text(strip=True)
         if not title:
@@ -75,7 +86,6 @@ def fetch_jobs(site):
 
         # Try to find the employer from a nearby heading
         employer = ""
-        heading = None
         for tag in ["h3", "h2", "h4", "strong"]:
             heading = a.find_previous(tag)
             if heading:

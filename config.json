@@ -7,6 +7,14 @@
       "base_url": "https://unionjobs.com",
       "job_link_pattern": "/listing.php?id=",
       "state_file": "state/unionjobs_florida.json"
+    },
+    {
+      "name": "Progressive Data Jobs",
+      "url": "https://www.progressivedatajobs.org/job-postings/",
+      "base_url": "https://www.progressivedatajobs.org",
+      "job_link_pattern": "/job-posting/",
+      "id_source": "slug",
+      "state_file": "state/progressivedatajobs.json"
     }
   ]
 }
