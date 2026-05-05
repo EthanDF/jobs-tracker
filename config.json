@@ -21,7 +21,7 @@
       "url": "https://techjobsforgood.com/jobs/?locations=remote&locations=West+Palm+Beach%2C+FL&q=",
       "base_url": "https://techjobsforgood.com",
       "job_link_pattern": "/jobs/",
-      "id_source": "slug",
+      "id_source": "numeric_slug",
       "state_file": "state/techjobsforgood.json"
     }
   ]

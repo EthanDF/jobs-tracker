@@ -64,9 +64,12 @@ def fetch_jobs(site):
         if pattern not in href:
             continue
 
-        if id_source == "slug":
-            # Strip trailing slash and grab the last path component
-            job_id = href.rstrip("/").rsplit("/", 1)[-1]
+        if id_source in ("slug", "numeric_slug"):
+            # Strip query string/fragment, then grab the last path component
+            path = href.split("?")[0].split("#")[0]
+            job_id = path.rstrip("/").rsplit("/", 1)[-1]
+            if id_source == "numeric_slug" and not job_id.isdigit():
+                continue
         else:
             match = re.search(r"[?&]id=(\d+)", href)
             if not match:
