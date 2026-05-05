@@ -22,6 +22,8 @@
       "base_url": "https://techjobsforgood.com",
       "job_link_pattern": "/jobs/",
       "id_source": "numeric_slug",
+      "title_css_class": "job-title",
+      "employer_css_class": "company-name",
       "state_file": "state/techjobsforgood.json"
     }
   ]

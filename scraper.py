@@ -79,21 +79,37 @@ def fetch_jobs(site):
         if not job_id:
             continue
 
-        title = a.get_text(strip=True)
+        title_class = site.get("title_css_class")
+        if title_class:
+            title_el = a.find(class_=title_class)
+            title = title_el.get_text(strip=True) if title_el else a.get_text(strip=True)
+        else:
+            title = a.get_text(strip=True)
         if not title:
+            continue
+
+        # Skip duplicate hrefs (e.g. a "View Job" button that shares the same href as the title)
+        if job_id in jobs:
             continue
 
         # Capture surrounding li/td text for metadata (location, date, etc.)
         parent = a.find_parent(["li", "td", "div", "p"])
         meta = parent.get_text(" ", strip=True) if parent else ""
 
-        # Try to find the employer from a nearby heading
+        # Try to find the employer: check for a configured CSS class first,
+        # then fall back to nearby headings
         employer = ""
-        for tag in ["h3", "h2", "h4", "strong"]:
-            heading = a.find_previous(tag)
-            if heading:
-                employer = heading.get_text(strip=True)
-                break
+        employer_class = site.get("employer_css_class")
+        if employer_class:
+            el = (a.find_next(class_=employer_class) or a.find_previous(class_=employer_class))
+            if el:
+                employer = el.get_text(strip=True)
+        if not employer:
+            for tag in ["h3", "h2", "h4", "strong"]:
+                heading = a.find_previous(tag)
+                if heading:
+                    employer = heading.get_text(strip=True)
+                    break
 
         full_url = base_url + href if href.startswith("/") else href
 
