@@ -1,0 +1,32 @@
+{
+  "?locations=remote&locations=West+Palm+Beach%2C+FL&q=&sort_by=date#q": {
+    "employer": "Relevance",
+    "meta": "Sort by: Relevance | Date",
+    "title": "Date",
+    "url": "https://techjobsforgood.com/jobs/?locations=remote&locations=West+Palm+Beach%2C+FL&q=&sort_by=date#q"
+  },
+  "?ref=homepage": {
+    "employer": "Relevance",
+    "meta": "Save View Job",
+    "title": "View Job",
+    "url": "https://techjobsforgood.com/jobs/32891/?ref=homepage"
+  },
+  "create": {
+    "employer": "Create a talent profile & get connected with hiring managers at\n                                    mission-driven\n                                    organizations.",
+    "meta": "Post a Job Create Company Profile Search Candidate Database Pricing",
+    "title": "Create Company Profile",
+    "url": "https://techjobsforgood.com/jobs/companies/create/"
+  },
+  "jobs": {
+    "employer": "",
+    "meta": "Browse Jobs Browse Organizations Get Matched to Companies About our Impact Areas",
+    "title": "Browse Jobs",
+    "url": "https://techjobsforgood.com/jobs/"
+  },
+  "new": {
+    "employer": "Create a talent profile & get connected with hiring managers at\n                                    mission-driven\n                                    organizations.",
+    "meta": "Post a Job Create Company Profile Search Candidate Database Pricing",
+    "title": "Post a Job",
+    "url": "https://techjobsforgood.com/jobs/new/"
+  }
+}
