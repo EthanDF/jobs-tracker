@@ -64,12 +64,18 @@ def fetch_jobs(site):
         if pattern not in href:
             continue
 
-        if id_source in ("slug", "numeric_slug"):
+        if id_source in ("slug", "numeric_slug", "numeric_prefix"):
             # Strip query string/fragment, then grab the last path component
             path = href.split("?")[0].split("#")[0]
             job_id = path.rstrip("/").rsplit("/", 1)[-1]
             if id_source == "numeric_slug" and not job_id.isdigit():
                 continue
+            if id_source == "numeric_prefix":
+                # Extract leading number from slugs like "30280-job-title"
+                m = re.match(r"^(\d+)-", job_id)
+                if not m:
+                    continue
+                job_id = m.group(1)
         else:
             match = re.search(r"[?&]id=(\d+)", href)
             if not match:
@@ -125,8 +131,7 @@ def fetch_jobs(site):
 
 def build_email_body(site_name, site_url, new_jobs):
     lines = [
-        f"<h2>New listings on {site_name}</h2>",
-        f'<p><a href="{site_url}">{site_url}</a></p>',
+        f'<h2>New listings on <a href="{site_url}">{site_name}</a></h2>',
         "<ul>",
     ]
     for job in new_jobs.values():
@@ -179,14 +184,15 @@ def main():
 
         print(f"  {len(new_jobs)} new listings")
 
+        site_link = f'<a href="{site["url"]}">{name}</a>'
         if new_jobs:
             summary_lines.append(
-                f"<li><strong>{name}</strong>: {len(new_jobs)} new listing(s)</li>"
+                f"<li><strong>{site_link}</strong>: {len(new_jobs)} new listing(s)</li>"
             )
             email_sections.append(build_email_body(name, site["url"], new_jobs))
         else:
             summary_lines.append(
-                f"<li><strong>{name}</strong>: no new listings</li>"
+                f"<li><strong>{site_link}</strong>: no new listings</li>"
             )
 
         save_state(site["state_file"], current_jobs)
