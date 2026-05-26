@@ -1,4 +1,10 @@
 {
+  "32347": {
+    "employer": "One Project",
+    "meta": "Product Engineer One Project Remote (US) - $175K - $200K Software Engineering Partners & Advocates Economic\n                                        Development We are joining with all who dream of a world beyond capitalism, today. Posted 1 month ago",
+    "title": "Product Engineer",
+    "url": "https://techjobsforgood.com/jobs/32347/?ref=homepage"
+  },
   "32706": {
     "employer": "Swiftly",
     "meta": "Senior Software Engineer (IoT) Swiftly Remote (US / Ontario / British Columbia) - $140K - $205K Software Engineering Human Rights & Equality Public Infrastructure Climate Change Swiftly is the leading transit data platform for agencies to share real-time passenger information, manage day-to-day operations, and improve service performance. Posted 4 weeks ago",
@@ -23,12 +29,6 @@
     "title": "Project Manager, Marketing & Communications at Re:wild",
     "url": "https://techjobsforgood.com/jobs/32789/?ref=homepage"
   },
-  "32891": {
-    "employer": "Mighty Acorn",
-    "meta": "Software Engineer V - Infra/SRE Mighty Acorn Remote (US) - $150K - $200K Software Engineering Partners & Advocates Education Public Infrastructure Public Service & Civic Engagement At Mighty Acorn, we make it easier for governments to deliver world-class digital services. From renewing a fishing license to applying for unemployment benefits, we build digital services that enhance public trust and satisfaction. Posted 3 weeks ago",
-    "title": "Software Engineer V - Infra/SRE",
-    "url": "https://techjobsforgood.com/jobs/32891/?ref=homepage"
-  },
   "32892": {
     "employer": "Mighty Acorn",
     "meta": "Software Engineer IV - Full Stack Mighty Acorn Remote (US) - $130K - $150K Software Engineering Partners & Advocates Education Public Infrastructure Public Service & Civic Engagement At Mighty Acorn, we make it easier for governments to deliver world-class digital services. From renewing a fishing license to applying for unemployment benefits, we build digital services that enhance public trust and satisfaction. Posted 3 weeks ago",
@@ -47,6 +47,12 @@
     "title": "Product Growth Manager",
     "url": "https://techjobsforgood.com/jobs/32903/?ref=homepage"
   },
+  "32906": {
+    "employer": "Ekotrope",
+    "meta": "Product Manager - Energy Code at Ekotrope Ekotrope Boston, MA/Remote (US) - $110K - $120K Product Clean Energy Ekotrope was founded in 2011 with the mission to empower people with technology and insights to drive informed decisions that move our built environment towards sustainability. Posted 3 weeks ago",
+    "title": "Product Manager - Energy Code at Ekotrope",
+    "url": "https://techjobsforgood.com/jobs/32906/?ref=homepage"
+  },
   "32908": {
     "employer": "Ekotrope",
     "meta": "Product Manager - Data Services at Ekotrope Ekotrope Boston, MA/Remote (US) - $120K - $150K Product Clean Energy Ekotrope was founded in 2011 with the mission to empower people with technology and insights to drive informed decisions that move our built environment towards sustainability. Posted 3 weeks ago",
@@ -61,7 +67,7 @@
   },
   "32953": {
     "employer": "BME Strategies",
-    "meta": "Junior Engineer, AI BME Strategies Remote (US) - $71K - $83K Software Engineering Health & Well-Being Partners & Advocates Public Service & Civic Engagement BME Strategies is a specialty Public Health consulting firm with over two decades experience driving sustainable change rooted in community health and equity. Posted 2 weeks ago",
+    "meta": "Junior Engineer, AI BME Strategies Remote (US) - $71K - $83K Software Engineering Health & Well-Being Partners & Advocates Public Service & Civic Engagement BME Strategies is a specialty Public Health consulting firm with over two decades experience driving sustainable change rooted in community health and equity. Posted 3 weeks ago",
     "title": "Junior Engineer, AI",
     "url": "https://techjobsforgood.com/jobs/32953/?ref=homepage"
   },
@@ -83,35 +89,11 @@
     "title": "Senior Engineer - Data, Platform & Analytics",
     "url": "https://techjobsforgood.com/jobs/33032/?ref=homepage"
   },
-  "33034": {
-    "employer": "Mighty Acorn",
-    "meta": "Software Engineer V - Security Engineer Mighty Acorn Remote (US) - $150K - $200K Software Engineering Partners & Advocates Education Public Infrastructure Public Service & Civic Engagement At Mighty Acorn, we make it easier for governments to deliver world-class digital services. From renewing a fishing license to applying for unemployment benefits, we build digital services that enhance public trust and satisfaction. Posted 2 weeks ago",
-    "title": "Software Engineer V - Security Engineer",
-    "url": "https://techjobsforgood.com/jobs/33034/?ref=homepage"
-  },
-  "33036": {
-    "employer": "Mighty Acorn",
-    "meta": "Software Engineer IV - Infra/SRE Mighty Acorn Remote (US) - $130K - $150K Software Engineering Partners & Advocates Education Public Infrastructure Public Service & Civic Engagement At Mighty Acorn, we make it easier for governments to deliver world-class digital services. From renewing a fishing license to applying for unemployment benefits, we build digital services that enhance public trust and satisfaction. Posted 2 weeks ago",
-    "title": "Software Engineer IV - Infra/SRE",
-    "url": "https://techjobsforgood.com/jobs/33036/?ref=homepage"
-  },
   "33096": {
     "employer": "Patrick J. McGovern Foundation",
     "meta": "Junior DevOps Engineer Patrick J. McGovern Foundation Remote (US) - $70K - $106K Software Engineering Partners & Advocates Public Infrastructure We are tech-inspired global changemakers, optimists, and visionaries advancing AI and data solutions to create a thriving, equitable, and sustainable future for all. Posted 2 weeks ago",
     "title": "Junior DevOps Engineer",
     "url": "https://techjobsforgood.com/jobs/33096/?ref=homepage"
-  },
-  "33142": {
-    "employer": "Magic Cabinet",
-    "meta": "Qualitative/Mixed-Methods Researcher Magic Cabinet Remote (California or Washington) - $140K - $150K Data + Analytics Partners & Advocates We partner with philanthropic funders and community leaders to experiment transparently, learn openly, and bring a flexible approach to philanthropy \u2014 committed to centering, listening, and adapting to ever-changing community needs. Posted 1 week ago",
-    "title": "Qualitative/Mixed-Methods Researcher",
-    "url": "https://techjobsforgood.com/jobs/33142/?ref=homepage"
-  },
-  "33174": {
-    "employer": "New Teacher Center",
-    "meta": "Senior Director, Technology New Teacher Center Remote (US) - $151K - $227K Information Technology New Teacher Center is an education organization that builds a resilient, modern educator workforce through enriching professional learning that inspires teachers to stay, grow, and lead. Posted 1 week ago",
-    "title": "Senior Director, Technology",
-    "url": "https://techjobsforgood.com/jobs/33174/?ref=homepage"
   },
   "33175": {
     "employer": "Northeast Energy Efficiency Partnerships",
@@ -121,62 +103,74 @@
   },
   "33177": {
     "employer": "Project Basta",
-    "meta": "Director of Data Strategy Project Basta Remote (NY, NJ, MA, CT, PA, FL) (New York, NY preferred) - $130K - $163K Data + Analytics Education Economic\n                                        Development To create a bridge of opportunity between employers and first-generation college goers of color to increase knowledge workforce diversity at all levels. Posted 7 days ago",
+    "meta": "Director of Data Strategy Project Basta Remote (NY, NJ, MA, CT, PA, FL) (New York, NY preferred) - $130K - $163K Data + Analytics Education Economic\n                                        Development To create a bridge of opportunity between employers and first-generation college goers of color to increase knowledge workforce diversity at all levels. Posted 1 week ago",
     "title": "Director of Data Strategy",
     "url": "https://techjobsforgood.com/jobs/33177/?ref=homepage"
   },
   "33178": {
     "employer": "Project Basta",
-    "meta": "Senior Product Manager Project Basta Remote (NY, NJ, MA, CT, PA, FL) (New York, NY preferred) - $150K - $189K Product Education Economic\n                                        Development To create a bridge of opportunity between employers and first-generation college goers of color to increase knowledge workforce diversity at all levels. Posted 7 days ago",
+    "meta": "Senior Product Manager Project Basta Remote (NY, NJ, MA, CT, PA, FL) (New York, NY preferred) - $150K - $189K Product Education Economic\n                                        Development To create a bridge of opportunity between employers and first-generation college goers of color to increase knowledge workforce diversity at all levels. Posted 1 week ago",
     "title": "Senior Product Manager",
     "url": "https://techjobsforgood.com/jobs/33178/?ref=homepage"
   },
   "33213": {
     "employer": "State Power Fund",
-    "meta": "Data and Research Analyst State Power Fund Remote (US) - $70K - $90K Data + Analytics Human Rights & Equality Partners & Advocates Public Service & Civic Engagement State Power Fund is devoted to measuring and amplifying the power of state-based grassroots organizing groups. We work with partner organizations across the country to create and standardize measurements of grassroots power at the state and local levels by developing the analytics skills of their data managers, facilitating academic research partnerships, and pursuing independent research projects. Posted 2 days ago",
+    "meta": "Data and Research Analyst State Power Fund Remote (US) - $70K - $90K Data + Analytics Human Rights & Equality Partners & Advocates Public Service & Civic Engagement State Power Fund is devoted to measuring and amplifying the power of state-based grassroots organizing groups. We work with partner organizations across the country to create and standardize measurements of grassroots power at the state and local levels by developing the analytics skills of their data managers, facilitating academic research partnerships, and pursuing independent research projects. Posted 3 days ago",
     "title": "Data and Research Analyst",
     "url": "https://techjobsforgood.com/jobs/33213/?ref=homepage"
   },
   "33265": {
     "employer": "Kalderos",
-    "meta": "Sr. Data Engineer Kalderos Chicago, IL/Boston, MA/Remote - $145K - $175K Data + Analytics Health & Well-Being Partners & Advocates Kalderos delivers unifying technology that solves problems facing the U.S. healthcare system. We work with healthcare providers, manufacturers, payers and others to increase transparency and restore trust \u2014 enabling everyone to focus on improving the health of people. Posted 3 days ago",
+    "meta": "Sr. Data Engineer Kalderos Chicago, IL/Boston, MA/Remote - $145K - $175K Data + Analytics Health & Well-Being Partners & Advocates Kalderos delivers unifying technology that solves problems facing the U.S. healthcare system. We work with healthcare providers, manufacturers, payers and others to increase transparency and restore trust \u2014 enabling everyone to focus on improving the health of people. Posted 4 days ago",
     "title": "Sr. Data Engineer",
     "url": "https://techjobsforgood.com/jobs/33265/?ref=homepage"
   },
   "33267": {
     "employer": "Great Minds",
-    "meta": "Digital Designer Great Minds Washington, DC/Remote (US) - $66K - $72K Design + UX Great Minds is an education company that specializes in curriculum development and educational resources. Posted 3 days ago",
+    "meta": "Digital Designer Great Minds Washington, DC/Remote (US) - $66K - $72K Design + UX Great Minds is an education company that specializes in curriculum development and educational resources. Posted 4 days ago",
     "title": "Digital Designer",
     "url": "https://techjobsforgood.com/jobs/33267/?ref=homepage"
   },
   "33268": {
     "employer": "NAF",
-    "meta": "Director, Product Growth & Partnerships NAF Remote (US) - $122K Product Education Economic\n                                        Development NAF solves some of the biggest challenges facing education and the economy by bringing education, business, and community leaders together to transform the high school experience. Posted 3 days ago",
+    "meta": "Director, Product Growth & Partnerships NAF Remote (US) - $122K Product Education Economic\n                                        Development NAF solves some of the biggest challenges facing education and the economy by bringing education, business, and community leaders together to transform the high school experience. Posted 4 days ago",
     "title": "Director, Product Growth & Partnerships",
     "url": "https://techjobsforgood.com/jobs/33268/?ref=homepage"
   },
   "33269": {
     "employer": "Great Minds",
-    "meta": "Associate Director, Security & Compliance Great Minds Remote (US) - $167K - $183K Information Technology Great Minds is an education company that specializes in curriculum development and educational resources. Posted 2 days ago",
+    "meta": "Associate Director, Security & Compliance Great Minds Remote (US) - $167K - $183K Information Technology Great Minds is an education company that specializes in curriculum development and educational resources. Posted 3 days ago",
     "title": "Associate Director, Security & Compliance",
     "url": "https://techjobsforgood.com/jobs/33269/?ref=homepage"
   },
   "33270": {
     "employer": "Great Minds",
-    "meta": "Senior Director, Data Platforms Great Minds Remote (US) - $207K - $222K Data + Analytics Great Minds is an education company that specializes in curriculum development and educational resources. Posted 2 days ago",
+    "meta": "Senior Director, Data Platforms Great Minds Remote (US) - $207K - $222K Data + Analytics Great Minds is an education company that specializes in curriculum development and educational resources. Posted 3 days ago",
     "title": "Senior Director, Data Platforms",
     "url": "https://techjobsforgood.com/jobs/33270/?ref=homepage"
   },
   "33271": {
     "employer": "Great Minds",
-    "meta": "Product Manager, Literacy Great Minds Remote (US) - $78K - $87K Product Great Minds is an education company that specializes in curriculum development and educational resources. Posted 2 days ago",
+    "meta": "Product Manager, Literacy Great Minds Remote (US) - $78K - $87K Product Great Minds is an education company that specializes in curriculum development and educational resources. Posted 3 days ago",
     "title": "Product Manager, Literacy",
     "url": "https://techjobsforgood.com/jobs/33271/?ref=homepage"
   },
+  "33273": {
+    "employer": "Great Minds",
+    "meta": "IT Security Manager Great Minds Remote (US) - $146K - $166K Information Technology Great Minds is an education company that specializes in curriculum development and educational resources. Posted 4 days ago",
+    "title": "IT Security Manager",
+    "url": "https://techjobsforgood.com/jobs/33273/?ref=homepage"
+  },
   "33274": {
     "employer": "Evident Change",
-    "meta": "Senior Database Administrator (DBA) Evident Change Remote (US) - $93K - $103K Information Technology Health & Well-Being Education Human Rights & Equality Evident Change is a nonprofit that uses data and research to improve our social systems. Posted 3 days ago",
+    "meta": "Senior Database Administrator (DBA) Evident Change Remote (US) - $93K - $103K Information Technology Health & Well-Being Education Human Rights & Equality Evident Change is a nonprofit that uses data and research to improve our social systems. Posted 4 days ago",
     "title": "Senior Database Administrator (DBA)",
     "url": "https://techjobsforgood.com/jobs/33274/?ref=homepage"
+  },
+  "33362": {
+    "employer": "Mighty Acorn",
+    "meta": "Software Engineer IV - Frontend Mighty Acorn Remote (US) - $130K - $150K Software Engineering Partners & Advocates Education Public Infrastructure Public Service & Civic Engagement At Mighty Acorn, we make it easier for governments to deliver world-class digital services. From renewing a fishing license to applying for unemployment benefits, we build digital services that enhance public trust and satisfaction. Posted 22 minutes ago",
+    "title": "Software Engineer IV - Frontend",
+    "url": "https://techjobsforgood.com/jobs/33362/?ref=homepage"
   }
 }
