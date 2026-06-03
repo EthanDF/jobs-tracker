@@ -1,4 +1,10 @@
 {
+  "account-executive": {
+    "employer": "Account Executive",
+    "meta": "Posted on Jun 3, 2026 Account Executive Catalist Learn more \u2192",
+    "title": "Account Executive",
+    "url": "https://www.progressivedatajobs.org/job-posting/account-executive/"
+  },
   "account-specialist": {
     "employer": "Account Specialist",
     "meta": "Posted on May 14, 2026 Account Specialist TargetSmart Communications Learn more \u2192",
@@ -11,17 +17,23 @@
     "title": "CRM Product Designer",
     "url": "https://www.progressivedatajobs.org/job-posting/crm-product-designer/"
   },
+  "data-analyst-3": {
+    "employer": "Data Analyst",
+    "meta": "Posted on Jun 3, 2026 Data Analyst WorkMoney, Inc. Learn more \u2192",
+    "title": "Data Analyst",
+    "url": "https://www.progressivedatajobs.org/job-posting/data-analyst-3/"
+  },
   "data-analyst-political": {
     "employer": "Data Analyst (Political)",
     "meta": "Posted on May 7, 2026 Data Analyst (Political) New York Democratic Senate Campaign Committee Learn more \u2192",
     "title": "Data Analyst (Political)",
     "url": "https://www.progressivedatajobs.org/job-posting/data-analyst-political/"
   },
-  "data-and-policy-analyst-education-funding-equity-initiative": {
-    "employer": "Data and Policy Analyst \u2013 Education Funding Equity Initiative",
-    "meta": "Posted on May 7, 2026 Data and Policy Analyst \u2013 Education Funding Equity Initiative New America Learn more \u2192",
-    "title": "Data and Policy Analyst \u2013 Education Funding Equity Initiative",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-and-policy-analyst-education-funding-equity-initiative/"
+  "data-services-engineer-2": {
+    "employer": "Data Services Engineer",
+    "meta": "Posted on Jun 3, 2026 Data Services Engineer Catalist Learn more \u2192",
+    "title": "Data Services Engineer",
+    "url": "https://www.progressivedatajobs.org/job-posting/data-services-engineer-2/"
   },
   "data-targeting-specialist-i": {
     "employer": "Data & Targeting Specialist I",
@@ -35,11 +47,17 @@
     "title": "Deputy Data Director",
     "url": "https://www.progressivedatajobs.org/job-posting/deputy-data-director-4/"
   },
-  "evaluation-and-impact-specialist": {
-    "employer": "Evaluation and Impact Specialist",
-    "meta": "Posted on May 7, 2026 Evaluation and Impact Specialist FreeFrom Learn more \u2192",
-    "title": "Evaluation and Impact Specialist",
-    "url": "https://www.progressivedatajobs.org/job-posting/evaluation-and-impact-specialist/"
+  "field-data-coordinator": {
+    "employer": "Field Data Coordinator",
+    "meta": "Posted on Jun 3, 2026 Field Data Coordinator AFSCME Learn more \u2192",
+    "title": "Field Data Coordinator",
+    "url": "https://www.progressivedatajobs.org/job-posting/field-data-coordinator/"
+  },
+  "movement-technology-solutions-specialist": {
+    "employer": "Movement Technology Solutions Specialist",
+    "meta": "Posted on Jun 3, 2026 Movement Technology Solutions Specialist Resilient Strategies Learn more \u2192",
+    "title": "Movement Technology Solutions Specialist",
+    "url": "https://www.progressivedatajobs.org/job-posting/movement-technology-solutions-specialist/"
   },
   "research-analyst-2": {
     "employer": "Research Analyst",
@@ -47,28 +65,10 @@
     "title": "Research Analyst",
     "url": "https://www.progressivedatajobs.org/job-posting/research-analyst-2/"
   },
-  "research-manager": {
-    "employer": "Research Manager",
-    "meta": "Posted on Apr 29, 2026 Research Manager Research Collaborative Learn more \u2192",
-    "title": "Research Manager",
-    "url": "https://www.progressivedatajobs.org/job-posting/research-manager/"
-  },
-  "senior-data-engineer-data-engineer": {
-    "employer": "Senior Data Engineer / Data Engineer",
-    "meta": "Posted on May 7, 2026 Senior Data Engineer / Data Engineer Movement Labs Learn more \u2192",
-    "title": "Senior Data Engineer / Data Engineer",
-    "url": "https://www.progressivedatajobs.org/job-posting/senior-data-engineer-data-engineer/"
-  },
   "senior-polling-analyst": {
     "employer": "Senior Polling Analyst",
     "meta": "Posted on May 7, 2026 Senior Polling Analyst Data for Progress Learn more \u2192",
     "title": "Senior Polling Analyst",
     "url": "https://www.progressivedatajobs.org/job-posting/senior-polling-analyst/"
-  },
-  "senior-technical-analyst": {
-    "employer": "Senior Technical Analyst",
-    "meta": "Posted on Apr 23, 2026 Senior Technical Analyst Murmuration Learn more \u2192",
-    "title": "Senior Technical Analyst",
-    "url": "https://www.progressivedatajobs.org/job-posting/senior-technical-analyst/"
   }
 }
