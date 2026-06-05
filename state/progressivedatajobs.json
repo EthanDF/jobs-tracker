@@ -5,17 +5,11 @@
     "title": "Account Executive",
     "url": "https://www.progressivedatajobs.org/job-posting/account-executive/"
   },
-  "account-specialist": {
-    "employer": "Account Specialist",
-    "meta": "Posted on May 14, 2026 Account Specialist TargetSmart Communications Learn more \u2192",
-    "title": "Account Specialist",
-    "url": "https://www.progressivedatajobs.org/job-posting/account-specialist/"
-  },
-  "crm-product-designer": {
-    "employer": "CRM Product Designer",
-    "meta": "Posted on May 14, 2026 CRM Product Designer MoveOn Learn more \u2192",
-    "title": "CRM Product Designer",
-    "url": "https://www.progressivedatajobs.org/job-posting/crm-product-designer/"
+  "chief-strategy-officer": {
+    "employer": "Chief Strategy Officer",
+    "meta": "Posted on Jun 4, 2026 Chief Strategy Officer NYC Public Engagement Unit Learn more \u2192",
+    "title": "Chief Strategy Officer",
+    "url": "https://www.progressivedatajobs.org/job-posting/chief-strategy-officer/"
   },
   "data-analyst-3": {
     "employer": "Data Analyst",
@@ -34,12 +28,6 @@
     "meta": "Posted on Jun 3, 2026 Data Services Engineer Catalist Learn more \u2192",
     "title": "Data Services Engineer",
     "url": "https://www.progressivedatajobs.org/job-posting/data-services-engineer-2/"
-  },
-  "data-targeting-specialist-i": {
-    "employer": "Data & Targeting Specialist I",
-    "meta": "Posted on May 26, 2026 Data & Targeting Specialist I AFSCME Learn more \u2192",
-    "title": "Data & Targeting Specialist I",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-targeting-specialist-i/"
   },
   "deputy-data-director-4": {
     "employer": "Deputy Data Director",
@@ -65,10 +53,22 @@
     "title": "Polling Account Manager",
     "url": "https://www.progressivedatajobs.org/job-posting/polling-account-manager/"
   },
-  "research-analyst-2": {
-    "employer": "Research Analyst",
-    "meta": "Posted on May 26, 2026 Research Analyst Everybody Votes Campaign Learn more \u2192",
-    "title": "Research Analyst",
-    "url": "https://www.progressivedatajobs.org/job-posting/research-analyst-2/"
+  "response-technology-operations-director": {
+    "employer": "Response Technology Operations Director",
+    "meta": "Posted on Jun 4, 2026 Response Technology Operations Director World Central Kitchen Learn more \u2192",
+    "title": "Response Technology Operations Director",
+    "url": "https://www.progressivedatajobs.org/job-posting/response-technology-operations-director/"
+  },
+  "senior-data-engineer-short-application-window": {
+    "employer": "Senior Data Engineer (short application window!)",
+    "meta": "Posted on Jun 4, 2026 Senior Data Engineer (short application window!) The Nature Conservancy Learn more \u2192",
+    "title": "Senior Data Engineer (short application window!)",
+    "url": "https://www.progressivedatajobs.org/job-posting/senior-data-engineer-short-application-window/"
+  },
+  "senior-democracy-analyst": {
+    "employer": "Senior Democracy Analyst",
+    "meta": "Posted on Jun 4, 2026 Senior Democracy Analyst Rethink Priorities Learn more \u2192",
+    "title": "Senior Democracy Analyst",
+    "url": "https://www.progressivedatajobs.org/job-posting/senior-democracy-analyst/"
   }
 }
