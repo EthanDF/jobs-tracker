@@ -11,12 +11,6 @@
     "title": "Chief Strategy Officer",
     "url": "https://www.progressivedatajobs.org/job-posting/chief-strategy-officer/"
   },
-  "data-analyst-3": {
-    "employer": "Data Analyst",
-    "meta": "Posted on Jun 3, 2026 Data Analyst WorkMoney, Inc. Learn more \u2192",
-    "title": "Data Analyst",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-analyst-3/"
-  },
   "data-analyst-research": {
     "employer": "Data Analyst \u2013 Research",
     "meta": "Posted on Jun 4, 2026 Data Analyst \u2013 Research Blue Rose Research Learn more \u2192",
@@ -29,17 +23,17 @@
     "title": "Data Services Engineer",
     "url": "https://www.progressivedatajobs.org/job-posting/data-services-engineer-2/"
   },
+  "engineering-manager": {
+    "employer": "Engineering Manager",
+    "meta": "Posted on Jun 8, 2026 Engineering Manager Community Tech Alliance Learn more \u2192",
+    "title": "Engineering Manager",
+    "url": "https://www.progressivedatajobs.org/job-posting/engineering-manager/"
+  },
   "field-data-coordinator": {
     "employer": "Field Data Coordinator",
     "meta": "Posted on Jun 3, 2026 Field Data Coordinator AFSCME Learn more \u2192",
     "title": "Field Data Coordinator",
     "url": "https://www.progressivedatajobs.org/job-posting/field-data-coordinator/"
-  },
-  "movement-technology-solutions-specialist": {
-    "employer": "Movement Technology Solutions Specialist",
-    "meta": "Posted on Jun 3, 2026 Movement Technology Solutions Specialist Resilient Strategies Learn more \u2192",
-    "title": "Movement Technology Solutions Specialist",
-    "url": "https://www.progressivedatajobs.org/job-posting/movement-technology-solutions-specialist/"
   },
   "polling-account-manager": {
     "employer": "Polling Account Manager",
@@ -64,6 +58,12 @@
     "meta": "Posted on Jun 4, 2026 Senior Democracy Analyst Rethink Priorities Learn more \u2192",
     "title": "Senior Democracy Analyst",
     "url": "https://www.progressivedatajobs.org/job-posting/senior-democracy-analyst/"
+  },
+  "senior-staff-software-engineer": {
+    "employer": "Senior / Staff Software Engineer",
+    "meta": "Posted on Jun 8, 2026 Senior / Staff Software Engineer Community Tech Alliance Learn more \u2192",
+    "title": "Senior / Staff Software Engineer",
+    "url": "https://www.progressivedatajobs.org/job-posting/senior-staff-software-engineer/"
   },
   "senior-staff-software-engineer-ddx-api-team": {
     "employer": "Senior/Staff Software Engineer \u2013 DDx API Team",
