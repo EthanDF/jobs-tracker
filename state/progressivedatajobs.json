@@ -1,10 +1,4 @@
 {
-  "account-executive": {
-    "employer": "Account Executive",
-    "meta": "Posted on Jun 3, 2026 Account Executive Catalist Learn more \u2192",
-    "title": "Account Executive",
-    "url": "https://www.progressivedatajobs.org/job-posting/account-executive/"
-  },
   "chief-strategy-officer": {
     "employer": "Chief Strategy Officer",
     "meta": "Posted on Jun 4, 2026 Chief Strategy Officer NYC Public Engagement Unit Learn more \u2192",
@@ -17,23 +11,17 @@
     "title": "Data Analyst \u2013 Research",
     "url": "https://www.progressivedatajobs.org/job-posting/data-analyst-research/"
   },
-  "data-services-engineer-2": {
-    "employer": "Data Services Engineer",
-    "meta": "Posted on Jun 3, 2026 Data Services Engineer Catalist Learn more \u2192",
-    "title": "Data Services Engineer",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-services-engineer-2/"
+  "deputy-data-director": {
+    "employer": "Deputy Data Director",
+    "meta": "Posted on Jun 10, 2026 Deputy Data Director 2026 North Carolina Coordinated Campaign Learn more \u2192",
+    "title": "Deputy Data Director",
+    "url": "https://www.progressivedatajobs.org/job-posting/deputy-data-director/"
   },
   "engineering-manager": {
     "employer": "Engineering Manager",
     "meta": "Posted on Jun 8, 2026 Engineering Manager Community Tech Alliance Learn more \u2192",
     "title": "Engineering Manager",
     "url": "https://www.progressivedatajobs.org/job-posting/engineering-manager/"
-  },
-  "field-data-coordinator": {
-    "employer": "Field Data Coordinator",
-    "meta": "Posted on Jun 3, 2026 Field Data Coordinator AFSCME Learn more \u2192",
-    "title": "Field Data Coordinator",
-    "url": "https://www.progressivedatajobs.org/job-posting/field-data-coordinator/"
   },
   "polling-account-manager": {
     "employer": "Polling Account Manager",
@@ -70,5 +58,17 @@
     "meta": "Posted on Jun 5, 2026 Senior/Staff Software Engineer \u2013 DDx API Team Democratic Data Exchange Learn more \u2192",
     "title": "Senior/Staff Software Engineer \u2013 DDx API Team",
     "url": "https://www.progressivedatajobs.org/job-posting/senior-staff-software-engineer-ddx-api-team/"
+  },
+  "social-scientist": {
+    "employer": "Social Scientist",
+    "meta": "Posted on Jun 10, 2026 Social Scientist The Movement Cooperative Learn more \u2192",
+    "title": "Social Scientist",
+    "url": "https://www.progressivedatajobs.org/job-posting/social-scientist/"
+  },
+  "technology-specialist": {
+    "employer": "Technology Specialist",
+    "meta": "Posted on Jun 10, 2026 Technology Specialist Rank the Vote Learn more \u2192",
+    "title": "Technology Specialist",
+    "url": "https://www.progressivedatajobs.org/job-posting/technology-specialist/"
   }
 }
