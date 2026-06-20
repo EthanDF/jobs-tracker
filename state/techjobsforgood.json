@@ -1,10 +1,4 @@
 {
-  "33271": {
-    "employer": "Great Minds",
-    "meta": "Product Manager, Literacy Great Minds Remote (US) - $78K - $87K Product Great Minds is an education company that specializes in curriculum development and educational resources. Posted 4 weeks ago",
-    "title": "Product Manager, Literacy",
-    "url": "https://techjobsforgood.com/jobs/33271/?ref=homepage"
-  },
   "33362": {
     "employer": "Mighty Acorn",
     "meta": "Software Engineer IV - Frontend Mighty Acorn Remote (US) - $130K - $150K Software Engineering Partners & Advocates Education Public Infrastructure Public Service & Civic Engagement At Mighty Acorn, we make it easier for governments to deliver world-class digital services. From renewing a fishing license to applying for unemployment benefits, we build digital services that enhance public trust and satisfaction. Posted 3 weeks ago",
@@ -22,6 +16,12 @@
     "meta": "Data Scientist Protect Democracy Remote (US) - $84K - $92K Data + Analytics Public Service & Civic Engagement Partners & Advocates Human Rights & Equality Protect Democracy\u2019s mission is to prevent our democracy from declining into a more authoritarian form of government. We defend elections, the rule of law, and fact-based political debate against authoritarian threats and work to shape a better democracy for future generations. Posted 3 weeks ago",
     "title": "Data Scientist",
     "url": "https://techjobsforgood.com/jobs/33434/?ref=homepage"
+  },
+  "33439": {
+    "employer": "Thrive Market",
+    "meta": "Senior Data Engineer Thrive Market Playa Vista, CA/Remote (US) - $165K - $190K Data + Analytics Food & Agriculture Thrive Market is a membership e-commerce platform on a mission to make the world\u2019s highest quality natural and organic products affordable for every American family. For $60/year, Thrive members get access to their favorite healthy snacks, supplements, home, beauty, and baby products at 30-50% off retail value\u2014all shipped to their front door for free.     As part of our Thrive Gives initiative, each paid membership on the site also sponsors a free membership for those in need. Wholesome products at wholesale prices, we're Thrive Market and we can't wait to be connected with you. Posted 3 weeks ago",
+    "title": "Senior Data Engineer",
+    "url": "https://techjobsforgood.com/jobs/33439/?ref=homepage"
   },
   "33445": {
     "employer": "Guild",
@@ -43,13 +43,13 @@
   },
   "33459": {
     "employer": "New Teacher Center",
-    "meta": "Senior Manager, Measurement and Evaluation New Teacher Center Remote (US) - $103K - $113K Data + Analytics New Teacher Center is an education organization that builds a resilient, modern educator workforce through enriching professional learning that inspires teachers to stay, grow, and lead. Posted 2 weeks ago",
+    "meta": "Senior Manager, Measurement and Evaluation New Teacher Center Remote (US) - $103K - $113K Data + Analytics New Teacher Center is an education organization that builds a resilient, modern educator workforce through enriching professional learning that inspires teachers to stay, grow, and lead. Posted 3 weeks ago",
     "title": "Senior Manager, Measurement and Evaluation",
     "url": "https://techjobsforgood.com/jobs/33459/?ref=homepage"
   },
   "33463": {
     "employer": "Acclinate",
-    "meta": "Data & Analytics Lead Acclinate Remote (US) - $79K - $116K Data + Analytics Partners & Advocates Human Rights & Equality Health & Well-Being Together we can transform the status quo of clinical research. We are working to ensure minorities are #NOWINCLUDED Posted 2 weeks ago",
+    "meta": "Data & Analytics Lead Acclinate Remote (US) - $79K - $116K Data + Analytics Partners & Advocates Human Rights & Equality Health & Well-Being Together we can transform the status quo of clinical research. We are working to ensure minorities are #NOWINCLUDED Posted 3 weeks ago",
     "title": "Data & Analytics Lead",
     "url": "https://techjobsforgood.com/jobs/33463/?ref=homepage"
   },
@@ -73,13 +73,13 @@
   },
   "33601": {
     "employer": "OpenMined",
-    "meta": "Senior Technical Product Manager OpenMined Remote (United States / Canada / Mexico) - $150K - $230K Product Global Peace & Safety Partners & Advocates We\u2019re OpenMined, a non-profit community building technology that enables secure computation across siloed data \u2014 unlocking collective intelligence while preserving attribution-based control. Posted 1 week ago",
+    "meta": "Senior Technical Product Manager OpenMined Remote (United States / Canada / Mexico) - $150K - $230K Product Global Peace & Safety Partners & Advocates We\u2019re OpenMined, a non-profit community building technology that enables secure computation across siloed data \u2014 unlocking collective intelligence while preserving attribution-based control. Posted 2 weeks ago",
     "title": "Senior Technical Product Manager",
     "url": "https://techjobsforgood.com/jobs/33601/?ref=homepage"
   },
   "33684": {
     "employer": "Constructive Dialogue Institute",
-    "meta": "Senior Impact Researcher Constructive Dialogue Institute New York, NY/Remote (US) - $130K - $140K Data + Analytics Education We work with institutions across the education, for-profit, non-profit, and public sectors to help them communicate across differences and build inclusive cultures. Posted 1 week ago",
+    "meta": "Senior Impact Researcher Constructive Dialogue Institute New York, NY/Remote (US) - $130K - $140K Data + Analytics Education We work with institutions across the education, for-profit, non-profit, and public sectors to help them communicate across differences and build inclusive cultures. Posted 2 weeks ago",
     "title": "Senior Impact Researcher",
     "url": "https://techjobsforgood.com/jobs/33684/?ref=homepage"
   },
@@ -139,13 +139,13 @@
   },
   "33813": {
     "employer": "BME Strategies",
-    "meta": "Senior Consultant, Training Strategy Lead BME Strategies Remote (US - East Coast preferred) - $87K - $121K Product Health & Well-Being Partners & Advocates Public Service & Civic Engagement BME Strategies is a specialty Public Health consulting firm with over two decades experience driving sustainable change rooted in community health and equity. Posted 4 days ago",
+    "meta": "Senior Consultant, Training Strategy Lead BME Strategies Remote (US - East Coast preferred) - $87K - $121K Product Health & Well-Being Partners & Advocates Public Service & Civic Engagement BME Strategies is a specialty Public Health consulting firm with over two decades experience driving sustainable change rooted in community health and equity. Posted 5 days ago",
     "title": "Senior Consultant, Training Strategy Lead",
     "url": "https://techjobsforgood.com/jobs/33813/?ref=homepage"
   },
   "33860": {
     "employer": "Swiftly",
-    "meta": "Senior Product Designer Swiftly Remote (US / Ontario / British Columbia) / San Francisco, CA - $120K - $160K Design + UX Human Rights & Equality Public Infrastructure Climate Change Swiftly is the leading transit data platform for agencies to share real-time passenger information, manage day-to-day operations, and improve service performance. Posted 3 days ago",
+    "meta": "Senior Product Designer Swiftly Remote (US / Ontario / British Columbia) / San Francisco, CA - $120K - $160K Design + UX Human Rights & Equality Public Infrastructure Climate Change Swiftly is the leading transit data platform for agencies to share real-time passenger information, manage day-to-day operations, and improve service performance. Posted 4 days ago",
     "title": "Senior Product Designer",
     "url": "https://techjobsforgood.com/jobs/33860/?ref=homepage"
   },
@@ -163,19 +163,19 @@
   },
   "33863": {
     "employer": "Friends From The City",
-    "meta": "Senior Software Engineer Friends From The City Remote (US) - $155K Software Engineering Partners & Advocates Public Infrastructure Public Service & Civic Engagement We\u2019re a fully remote design and software engineering firm that believes modern technology and the government aren\u2019t mutually exclusive. We're here to push the boundaries of civic tech innovation through meaningful work.\u200b Posted 2 days ago",
+    "meta": "Senior Software Engineer Friends From The City Remote (US) - $155K Software Engineering Partners & Advocates Public Infrastructure Public Service & Civic Engagement We\u2019re a fully remote design and software engineering firm that believes modern technology and the government aren\u2019t mutually exclusive. We're here to push the boundaries of civic tech innovation through meaningful work.\u200b Posted 3 days ago",
     "title": "Senior Software Engineer",
     "url": "https://techjobsforgood.com/jobs/33863/?ref=homepage"
   },
   "33906": {
     "employer": "Friends From The City",
-    "meta": "Senior Infrastructure Engineer Friends From The City Remote (US) - $163K Software Engineering Partners & Advocates Public Infrastructure Public Service & Civic Engagement We\u2019re a fully remote design and software engineering firm that believes modern technology and the government aren\u2019t mutually exclusive. We're here to push the boundaries of civic tech innovation through meaningful work.\u200b Posted 2 days ago",
+    "meta": "Senior Infrastructure Engineer Friends From The City Remote (US) - $163K Software Engineering Partners & Advocates Public Infrastructure Public Service & Civic Engagement We\u2019re a fully remote design and software engineering firm that believes modern technology and the government aren\u2019t mutually exclusive. We're here to push the boundaries of civic tech innovation through meaningful work.\u200b Posted 3 days ago",
     "title": "Senior Infrastructure Engineer",
     "url": "https://techjobsforgood.com/jobs/33906/?ref=homepage"
   },
   "33930": {
     "employer": "Texas Legal Services Center",
-    "meta": "Contractor Texas Legal Services Center Remote (US) - $12K Information Technology Texas Legal Services Center is a nonprofit organization that provides legal advice, advocacy, representation, and education to underserved people across the state. Posted 18 hours ago",
+    "meta": "Contractor Texas Legal Services Center Remote (US) - $12K Information Technology Texas Legal Services Center is a nonprofit organization that provides legal advice, advocacy, representation, and education to underserved people across the state. Posted 1 day ago",
     "title": "Contractor",
     "url": "https://techjobsforgood.com/jobs/33930/?ref=homepage"
   }
