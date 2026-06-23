@@ -1,9 +1,21 @@
 {
+  "chief-data-officer": {
+    "employer": "Chief Data Officer",
+    "meta": "Posted on Jun 22, 2026 Chief Data Officer Inquoro Learn more \u2192",
+    "title": "Chief Data Officer",
+    "url": "https://www.progressivedatajobs.org/job-posting/chief-data-officer/"
+  },
   "data-analyst-4": {
     "employer": "Data Analyst",
     "meta": "Posted on Jun 16, 2026 Data Analyst Ground Truth AI Learn more \u2192",
     "title": "Data Analyst",
     "url": "https://www.progressivedatajobs.org/job-posting/data-analyst-4/"
+  },
+  "data-engineer": {
+    "employer": "Data Engineer",
+    "meta": "Posted on Jun 22, 2026 Data Engineer Vocal Media Learn more \u2192",
+    "title": "Data Engineer",
+    "url": "https://www.progressivedatajobs.org/job-posting/data-engineer/"
   },
   "deputy-data-director": {
     "employer": "Deputy Data Director",
@@ -29,12 +41,6 @@
     "title": "Digital Media & Advertising Specialist (Seasonal, July 1 \u2013 November 30)",
     "url": "https://www.progressivedatajobs.org/job-posting/digital-media-advertising-specialist-seasonal-july-1-november-30/"
   },
-  "engineering-manager": {
-    "employer": "Engineering Manager",
-    "meta": "Posted on Jun 8, 2026 Engineering Manager Community Tech Alliance Learn more \u2192",
-    "title": "Engineering Manager",
-    "url": "https://www.progressivedatajobs.org/job-posting/engineering-manager/"
-  },
   "quality-control-manager": {
     "employer": "Quality Control Manager",
     "meta": "Posted on Jun 16, 2026 Quality Control Manager Movement Labs Learn more \u2192",
@@ -52,12 +58,6 @@
     "meta": "Posted on Jun 16, 2026 Senior Operations & Analytics Manager Movement Labs Learn more \u2192",
     "title": "Senior Operations & Analytics Manager",
     "url": "https://www.progressivedatajobs.org/job-posting/senior-operations-analytics-manager/"
-  },
-  "senior-staff-software-engineer": {
-    "employer": "Senior / Staff Software Engineer",
-    "meta": "Posted on Jun 8, 2026 Senior / Staff Software Engineer Community Tech Alliance Learn more \u2192",
-    "title": "Senior / Staff Software Engineer",
-    "url": "https://www.progressivedatajobs.org/job-posting/senior-staff-software-engineer/"
   },
   "social-scientist": {
     "employer": "Social Scientist",
