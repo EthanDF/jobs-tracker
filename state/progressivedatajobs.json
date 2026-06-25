@@ -5,11 +5,11 @@
     "title": "Chief Data Officer",
     "url": "https://www.progressivedatajobs.org/job-posting/chief-data-officer/"
   },
-  "data-analyst-4": {
+  "data-analyst-5": {
     "employer": "Data Analyst",
-    "meta": "Posted on Jun 16, 2026 Data Analyst Ground Truth AI Learn more \u2192",
+    "meta": "Posted on Jun 24, 2026 Data Analyst America Votes Learn more \u2192",
     "title": "Data Analyst",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-analyst-4/"
+    "url": "https://www.progressivedatajobs.org/job-posting/data-analyst-5/"
   },
   "data-engineer": {
     "employer": "Data Engineer",
@@ -17,11 +17,11 @@
     "title": "Data Engineer",
     "url": "https://www.progressivedatajobs.org/job-posting/data-engineer/"
   },
-  "deputy-data-director": {
-    "employer": "Deputy Data Director",
-    "meta": "Posted on Jun 10, 2026 Deputy Data Director 2026 North Carolina Coordinated Campaign Learn more \u2192",
-    "title": "Deputy Data Director",
-    "url": "https://www.progressivedatajobs.org/job-posting/deputy-data-director/"
+  "data-engineer-cycle": {
+    "employer": "Data Engineer (Cycle)",
+    "meta": "Posted on Jun 24, 2026 Data Engineer (Cycle) America Votes Learn more \u2192",
+    "title": "Data Engineer (Cycle)",
+    "url": "https://www.progressivedatajobs.org/job-posting/data-engineer-cycle/"
   },
   "deputy-data-director-6": {
     "employer": "Deputy Data Director",
@@ -41,17 +41,23 @@
     "title": "Digital Media & Advertising Specialist (Seasonal, July 1 \u2013 November 30)",
     "url": "https://www.progressivedatajobs.org/job-posting/digital-media-advertising-specialist-seasonal-july-1-november-30/"
   },
-  "quality-control-manager": {
-    "employer": "Quality Control Manager",
-    "meta": "Posted on Jun 16, 2026 Quality Control Manager Movement Labs Learn more \u2192",
-    "title": "Quality Control Manager",
-    "url": "https://www.progressivedatajobs.org/job-posting/quality-control-manager/"
+  "georgia-gotv-program-director": {
+    "employer": "Georgia GOTV Program Director",
+    "meta": "Posted on Jun 24, 2026 Georgia GOTV Program Director America Votes Learn more \u2192",
+    "title": "Georgia GOTV Program Director",
+    "url": "https://www.progressivedatajobs.org/job-posting/georgia-gotv-program-director/"
   },
-  "senior-innovation-associate": {
-    "employer": "Senior Innovation Associate",
-    "meta": "Posted on Jun 16, 2026 Senior Innovation Associate Movement Labs Learn more \u2192",
-    "title": "Senior Innovation Associate",
-    "url": "https://www.progressivedatajobs.org/job-posting/senior-innovation-associate/"
+  "nevada-senior-state-data-lead": {
+    "employer": "Nevada Senior State Data Lead",
+    "meta": "Posted on Jun 24, 2026 Nevada Senior State Data Lead America Votes Learn more \u2192",
+    "title": "Nevada Senior State Data Lead",
+    "url": "https://www.progressivedatajobs.org/job-posting/nevada-senior-state-data-lead/"
+  },
+  "senior-data-scientist": {
+    "employer": "Senior Data Scientist",
+    "meta": "Posted on Jun 24, 2026 Senior Data Scientist Murmuration Learn more \u2192",
+    "title": "Senior Data Scientist",
+    "url": "https://www.progressivedatajobs.org/job-posting/senior-data-scientist/"
   },
   "senior-operations-analytics-manager": {
     "employer": "Senior Operations & Analytics Manager",
@@ -59,16 +65,10 @@
     "title": "Senior Operations & Analytics Manager",
     "url": "https://www.progressivedatajobs.org/job-posting/senior-operations-analytics-manager/"
   },
-  "social-scientist": {
-    "employer": "Social Scientist",
-    "meta": "Posted on Jun 10, 2026 Social Scientist The Movement Cooperative Learn more \u2192",
-    "title": "Social Scientist",
-    "url": "https://www.progressivedatajobs.org/job-posting/social-scientist/"
-  },
-  "technology-specialist": {
-    "employer": "Technology Specialist",
-    "meta": "Posted on Jun 10, 2026 Technology Specialist Rank the Vote Learn more \u2192",
-    "title": "Technology Specialist",
-    "url": "https://www.progressivedatajobs.org/job-posting/technology-specialist/"
+  "staff-data-engineer": {
+    "employer": "Staff Data Engineer",
+    "meta": "Posted on Jun 24, 2026 Staff Data Engineer MissionWired Learn more \u2192",
+    "title": "Staff Data Engineer",
+    "url": "https://www.progressivedatajobs.org/job-posting/staff-data-engineer/"
   }
 }
