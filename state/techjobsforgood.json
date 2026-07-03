@@ -47,6 +47,12 @@
     "title": "Product Lead",
     "url": "https://techjobsforgood.com/jobs/33732/?ref=homepage"
   },
+  "33735": {
+    "employer": "Unified",
+    "meta": "In-House Content Creator Unified Remote (US - Texas or Washington, DC preferred) - $55K - $75K Digital Marketing Public Service & Civic Engagement The social network for activism - find your place in the movement. Posted 3 weeks ago",
+    "title": "In-House Content Creator",
+    "url": "https://techjobsforgood.com/jobs/33735/?ref=homepage"
+  },
   "33813": {
     "employer": "BME Strategies",
     "meta": "Senior Consultant, Training Strategy Lead BME Strategies Remote (US - East Coast preferred) - $87K - $121K Product Health & Well-Being Partners & Advocates Public Service & Civic Engagement BME Strategies is a specialty Public Health consulting firm with over two decades experience driving sustainable change rooted in community health and equity. Posted 2 weeks ago",
@@ -70,18 +76,6 @@
     "meta": "Customer Training & Adoption Specialist (SaaS) Swiftly Remote (US / Ontario / British Columbia) - $105K - $124K Product Human Rights & Equality Public Infrastructure Climate Change Swiftly is the leading transit data platform for agencies to share real-time passenger information, manage day-to-day operations, and improve service performance. Posted 2 weeks ago",
     "title": "Customer Training & Adoption Specialist (SaaS)",
     "url": "https://techjobsforgood.com/jobs/33862/?ref=homepage"
-  },
-  "33863": {
-    "employer": "Friends From The City",
-    "meta": "Senior Software Engineer Friends From The City Remote (US) - $155K Software Engineering Partners & Advocates Public Infrastructure Public Service & Civic Engagement We\u2019re a fully remote design and software engineering firm that believes modern technology and the government aren\u2019t mutually exclusive. We're here to push the boundaries of civic tech innovation through meaningful work.\u200b Posted 2 weeks ago",
-    "title": "Senior Software Engineer",
-    "url": "https://techjobsforgood.com/jobs/33863/?ref=homepage"
-  },
-  "33906": {
-    "employer": "Friends From The City",
-    "meta": "Senior Infrastructure Engineer Friends From The City Remote (US) - $163K Software Engineering Partners & Advocates Public Infrastructure Public Service & Civic Engagement We\u2019re a fully remote design and software engineering firm that believes modern technology and the government aren\u2019t mutually exclusive. We're here to push the boundaries of civic tech innovation through meaningful work.\u200b Posted 2 weeks ago",
-    "title": "Senior Infrastructure Engineer",
-    "url": "https://techjobsforgood.com/jobs/33906/?ref=homepage"
   },
   "33930": {
     "employer": "Texas Legal Services Center",
@@ -157,26 +151,32 @@
   },
   "34094": {
     "employer": "Citizen Codex",
-    "meta": "Strategic Service Designer Citizen Codex Remote (US) - $110K - $150K Design + UX Partners & Advocates Economic\n                                        Development Public Service & Civic Engagement Citizen Codex is a data innovation studio building products that transform how information can be used for the public good. Posted 6 days ago",
+    "meta": "Strategic Service Designer Citizen Codex Remote (US) - $110K - $150K Design + UX Partners & Advocates Economic\n                                        Development Public Service & Civic Engagement Citizen Codex is a data innovation studio building products that transform how information can be used for the public good. Posted 1 week ago",
     "title": "Strategic Service Designer",
     "url": "https://techjobsforgood.com/jobs/34094/?ref=homepage"
   },
   "34119": {
     "employer": "Us Creative Works",
-    "meta": "Client Services Manager Us Creative Works Remote (US) - $75K - $85K Product Partners & Advocates Us Creative Works is a women-led digital agency with a small team of nonprofit website experts who specialize in Drupal & WordPress. We design, build & support websites for mission-oriented organizations. Posted 5 days ago",
+    "meta": "Client Services Manager Us Creative Works Remote (US) - $75K - $85K Product Partners & Advocates Us Creative Works is a women-led digital agency with a small team of nonprofit website experts who specialize in Drupal & WordPress. We design, build & support websites for mission-oriented organizations. Posted 6 days ago",
     "title": "Client Services Manager",
     "url": "https://techjobsforgood.com/jobs/34119/?ref=homepage"
   },
   "34202": {
     "employer": "Conservation Metrics, Inc.",
-    "meta": "Lead Software Engineer, Data Sovereignty Conservation Metrics, Inc. Remote (US - CA/VA/NV/MN preferred) - $124K - $150K Software Engineering Climate Change Environment Human Rights & Equality Conservation Metrics provides automated alternatives to historically labor-intensive wildlife survey efforts. Posted 1 day ago",
+    "meta": "Lead Software Engineer, Data Sovereignty Conservation Metrics, Inc. Remote (US - CA/VA/NV/MN preferred) - $124K - $150K Software Engineering Climate Change Environment Human Rights & Equality Conservation Metrics provides automated alternatives to historically labor-intensive wildlife survey efforts. Posted 2 days ago",
     "title": "Lead Software Engineer, Data Sovereignty",
     "url": "https://techjobsforgood.com/jobs/34202/?ref=homepage"
   },
-  "34249": {
-    "employer": "Intertribal Software",
-    "meta": "Implementation Project Manager Intertribal Software Remote - $70K - $85K Product Our mission is to be the most trusted technology partner for Tribal Nations, by providing sustainable and high qualty enterprise software to support each Tribes unique vision, culture, and values. Posted 11 hours ago",
-    "title": "Implementation Project Manager",
-    "url": "https://techjobsforgood.com/jobs/34249/?ref=homepage"
+  "34250": {
+    "employer": "iNaturalist",
+    "meta": "Computer Vision / Machine Learning (CV/ML) Engineer iNaturalist Remote (US) - $154K Software Engineering Environment Education iNaturalist\u2019s mission is to connect people to nature and advance biodiversity science and conservation. Millions of people using iNaturalist together create the most complete record of biodiversity in history. Posted 19 hours ago",
+    "title": "Computer Vision / Machine Learning (CV/ML) Engineer",
+    "url": "https://techjobsforgood.com/jobs/34250/?ref=homepage"
+  },
+  "34251": {
+    "employer": "Swiftly",
+    "meta": "Senior Software Engineer - Backend Swiftly Remote (US / Ontario / British Columbia) - $130K - $210K Software Engineering Human Rights & Equality Public Infrastructure Climate Change Swiftly is the leading transit data platform for agencies to share real-time passenger information, manage day-to-day operations, and improve service performance. Posted 16 hours ago",
+    "title": "Senior Software Engineer - Backend",
+    "url": "https://techjobsforgood.com/jobs/34251/?ref=homepage"
   }
 }
