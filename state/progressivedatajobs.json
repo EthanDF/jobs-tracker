@@ -1,10 +1,4 @@
 {
-  "chief-data-officer": {
-    "employer": "Chief Data Officer",
-    "meta": "Posted on Jun 22, 2026 Chief Data Officer Inquoro Learn more \u2192",
-    "title": "Chief Data Officer",
-    "url": "https://www.progressivedatajobs.org/job-posting/chief-data-officer/"
-  },
   "data-analyst-5": {
     "employer": "Data Analyst",
     "meta": "Posted on Jun 24, 2026 Data Analyst America Votes Learn more \u2192",
@@ -34,6 +28,12 @@
     "meta": "Posted on Jun 24, 2026 Data Engineer (Cycle) America Votes Learn more \u2192",
     "title": "Data Engineer (Cycle)",
     "url": "https://www.progressivedatajobs.org/job-posting/data-engineer-cycle/"
+  },
+  "data-engineering-intern": {
+    "employer": "Data Engineering Intern",
+    "meta": "Posted on Jul 7, 2026 Data Engineering Intern Powered by People Learn more \u2192",
+    "title": "Data Engineering Intern",
+    "url": "https://www.progressivedatajobs.org/job-posting/data-engineering-intern/"
   },
   "data-technologist": {
     "employer": "Data Technologist",
