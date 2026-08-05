@@ -23,17 +23,23 @@
     "title": "Data Director",
     "url": "https://www.progressivedatajobs.org/job-posting/data-director-2/"
   },
-  "data-engineer-cycle": {
-    "employer": "Data Engineer (Cycle)",
-    "meta": "Posted on Jun 24, 2026 Data Engineer (Cycle) America Votes Learn more \u2192",
-    "title": "Data Engineer (Cycle)",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-engineer-cycle/"
+  "data-director-3": {
+    "employer": "Data Director",
+    "meta": "Posted on Aug 4, 2026 Data Director The 2026 Virginia Coordinated Campaign Learn more \u2192",
+    "title": "Data Director",
+    "url": "https://www.progressivedatajobs.org/job-posting/data-director-3/"
   },
   "data-engineering-intern": {
     "employer": "Data Engineering Intern",
     "meta": "Posted on Jul 7, 2026 Data Engineering Intern Powered by People Learn more \u2192",
     "title": "Data Engineering Intern",
     "url": "https://www.progressivedatajobs.org/job-posting/data-engineering-intern/"
+  },
+  "data-manager-2": {
+    "employer": "Data Manager",
+    "meta": "Posted on Aug 4, 2026 Data Manager Mississippi Data Hub Learn more \u2192",
+    "title": "Data Manager",
+    "url": "https://www.progressivedatajobs.org/job-posting/data-manager-2/"
   },
   "data-technologist": {
     "employer": "Data Technologist",
@@ -59,16 +65,10 @@
     "title": "Nevada Senior State Data Lead",
     "url": "https://www.progressivedatajobs.org/job-posting/nevada-senior-state-data-lead/"
   },
-  "senior-data-scientist": {
-    "employer": "Senior Data Scientist",
-    "meta": "Posted on Jun 24, 2026 Senior Data Scientist Murmuration Learn more \u2192",
-    "title": "Senior Data Scientist",
-    "url": "https://www.progressivedatajobs.org/job-posting/senior-data-scientist/"
-  },
-  "staff-data-engineer": {
-    "employer": "Staff Data Engineer",
-    "meta": "Posted on Jun 24, 2026 Staff Data Engineer MissionWired Learn more \u2192",
-    "title": "Staff Data Engineer",
-    "url": "https://www.progressivedatajobs.org/job-posting/staff-data-engineer/"
+  "product-manager-senior-product-manager": {
+    "employer": "Product Manager / Senior Product Manager",
+    "meta": "Posted on Aug 4, 2026 Product Manager / Senior Product Manager Blue Rose Research Learn more \u2192",
+    "title": "Product Manager / Senior Product Manager",
+    "url": "https://www.progressivedatajobs.org/job-posting/product-manager-senior-product-manager/"
   }
 }
