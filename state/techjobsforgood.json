@@ -1,13 +1,7 @@
 {
-  "34629": {
-    "employer": "Blue Rose Research",
-    "meta": "Product Manager / Senior Product Manager Blue Rose Research New York, NY / Remote (US) - $110K - $210K Product Public Service & Civic Engagement Partners & Advocates We\u2019re a team of 30+ passionate and progressive software engineers, machine learning engineers, and social scientists on a mission to make high quality research and testing widely available for the progressive community. Posted 4 weeks ago",
-    "title": "Product Manager / Senior Product Manager",
-    "url": "https://techjobsforgood.com/jobs/34629/?ref=homepage"
-  },
   "34631": {
     "employer": "Project Basta",
-    "meta": "Senior Manager, Data and Analytics Project Basta Remote (US) / New York, NY (Hybrid) - $104K - $130K Data + Analytics Education Economic\n                                        Development To create a bridge of opportunity between employers and first-generation college goers of color to increase knowledge workforce diversity at all levels. Posted 3 weeks ago",
+    "meta": "Senior Manager, Data and Analytics Project Basta Remote (US) / New York, NY (Hybrid) - $104K - $130K Data + Analytics Education Economic\n                                        Development To create a bridge of opportunity between employers and first-generation college goers of color to increase knowledge workforce diversity at all levels. Posted 4 weeks ago",
     "title": "Senior Manager, Data and Analytics",
     "url": "https://techjobsforgood.com/jobs/34631/?ref=homepage"
   },
@@ -43,13 +37,13 @@
   },
   "34833": {
     "employer": "Transcend Education",
-    "meta": "Partner, Design Journey Content Lead Transcend Education Remote (US) - $135K - $180K Design + UX Transcend is an EdTech company that offers innovative online learning solutions. Posted 2 weeks ago",
+    "meta": "Partner, Design Journey Content Lead Transcend Education Remote (US) - $135K - $180K Design + UX Transcend is an EdTech company that offers innovative online learning solutions. Posted 3 weeks ago",
     "title": "Partner, Design Journey Content Lead",
     "url": "https://techjobsforgood.com/jobs/34833/?ref=homepage"
   },
   "34839": {
     "employer": "Charlie Health",
-    "meta": "Staff IT Engineer Charlie Health Remote (US) - $138K - $190K Information Technology Health & Well-Being Young people in crisis are struggling to find the mental health treatment they need. At Charlie Health, we\u2019re creating serious, effective, and accessible solutions.  Our treatment programs, including our virtual Intensive Outpatient Program (IOP), combine personalized care with peer connection to foster long-term healing. Posted 2 weeks ago",
+    "meta": "Staff IT Engineer Charlie Health Remote (US) - $138K - $190K Information Technology Health & Well-Being Young people in crisis are struggling to find the mental health treatment they need. At Charlie Health, we\u2019re creating serious, effective, and accessible solutions.  Our treatment programs, including our virtual Intensive Outpatient Program (IOP), combine personalized care with peer connection to foster long-term healing. Posted 3 weeks ago",
     "title": "Staff IT Engineer",
     "url": "https://techjobsforgood.com/jobs/34839/?ref=homepage"
   },
@@ -77,6 +71,12 @@
     "title": "Staff Data Engineer",
     "url": "https://techjobsforgood.com/jobs/34900/?ref=homepage"
   },
+  "34903": {
+    "employer": "New Teacher Center",
+    "meta": "Manager, Measurement and Evaluation New Teacher Center Remote (US) - $83K - $91K Information Technology New Teacher Center is an education organization that builds a resilient, modern educator workforce through enriching professional learning that inspires teachers to stay, grow, and lead. Posted 2 weeks ago",
+    "title": "Manager, Measurement and Evaluation",
+    "url": "https://techjobsforgood.com/jobs/34903/?ref=homepage"
+  },
   "34905": {
     "employer": "Guild",
     "meta": "VP, Software Engineering Guild Remote (US) - $300K - $356K Software Engineering Education Economic\n                                        Development As the leader in education benefits, Guild offers the single most scalable solution for preparing the workforce of today for the jobs of tomorrow. Posted 2 weeks ago",
@@ -88,12 +88,6 @@
     "meta": "Senior Product Operations Manager, AI & Systems Guild Remote (US) - $170K - $200K Product Education Economic\n                                        Development As the leader in education benefits, Guild offers the single most scalable solution for preparing the workforce of today for the jobs of tomorrow. Posted 2 weeks ago",
     "title": "Senior Product Operations Manager, AI & Systems",
     "url": "https://techjobsforgood.com/jobs/34906/?ref=homepage"
-  },
-  "34956": {
-    "employer": "Zocdoc",
-    "meta": "Engineering Manager, Frontend Platform & Mobile Zocdoc Remote (US) - $210K - $270K Information Technology Health & Well-Being We created Zocdoc to solve patient problems, beginning with online appointment-booking \u2013 and we haven\u2019t stopped building since. With Zocdoc, you can see doctors\u2019 open appointment times and book instantly online, make informed choices with verified reviews, and stay on top of important checkups with tailored reminders. Posted 2 weeks ago",
-    "title": "Engineering Manager, Frontend Platform & Mobile",
-    "url": "https://techjobsforgood.com/jobs/34956/?ref=homepage"
   },
   "34957": {
     "employer": "Zocdoc",
@@ -121,13 +115,13 @@
   },
   "35026": {
     "employer": "DonorsChoose",
-    "meta": "Senior Director, Research & Insights DonorsChoose New York, NY (Hybrid)/Remote (Select US States) - $140K - $170K Data + Analytics Education Partners & Advocates DonorsChoose makes it easy for anyone to help a teacher in need, moving us closer to a nation where students in every community have the tools and experiences they need for a great education. Posted 1 week ago",
+    "meta": "Senior Director, Research & Insights DonorsChoose New York, NY (Hybrid)/Remote (Select US States) - $140K - $170K Data + Analytics Education Partners & Advocates DonorsChoose makes it easy for anyone to help a teacher in need, moving us closer to a nation where students in every community have the tools and experiences they need for a great education. Posted 2 weeks ago",
     "title": "Senior Director, Research & Insights",
     "url": "https://techjobsforgood.com/jobs/35026/?ref=homepage"
   },
   "35028": {
     "employer": "OpenTent",
-    "meta": "Senior Solutions Engineer/Salesforce Developer - Fixed Term OpenTent Remote - $110K - $130K Data + Analytics Partners & Advocates OpenTent builds relationship-driven Salesforce systems for community-oriented nonprofit teams. Posted 1 week ago",
+    "meta": "Senior Solutions Engineer/Salesforce Developer - Fixed Term OpenTent Remote - $110K - $130K Data + Analytics Partners & Advocates OpenTent builds relationship-driven Salesforce systems for community-oriented nonprofit teams. Posted 2 weeks ago",
     "title": "Senior Solutions Engineer/Salesforce Developer - Fixed Term",
     "url": "https://techjobsforgood.com/jobs/35028/?ref=homepage"
   },
@@ -145,37 +139,43 @@
   },
   "35154": {
     "employer": "Rune Labs",
-    "meta": "Mobile Engineer - Android (Senior Level) Rune Labs Remote (US / Canada) - $175K - $185K Software Engineering Health & Well-Being Partners & Advocates Leading precision neurology in Parkinson\u2019s Disease. Posted 3 days ago",
+    "meta": "Mobile Engineer - Android (Senior Level) Rune Labs Remote (US / Canada) - $175K - $185K Software Engineering Health & Well-Being Partners & Advocates Leading precision neurology in Parkinson\u2019s Disease. Posted 4 days ago",
     "title": "Mobile Engineer - Android (Senior Level)",
     "url": "https://techjobsforgood.com/jobs/35154/?ref=homepage"
   },
+  "35192": {
+    "employer": "Civic Nation",
+    "meta": "Digital Director, Party at the Polls Civic Nation Remote (US) - $105K Information Technology Public Service & Civic Engagement Partners & Advocates Civic Nation\u2019s mission is to empower individuals, companies, institutions, and organizations to create a more inclusive, equitable America. We are a home for change-makers who inspire, educate, and activate people around the issues that will define this generation \u2014 strengthening democracy; fostering civic engagement, social justice and voter participation; addressing public health crises; fighting for gender equity; and more. Posted 4 days ago",
+    "title": "Digital Director, Party at the Polls",
+    "url": "https://techjobsforgood.com/jobs/35192/?ref=homepage"
+  },
   "35204": {
     "employer": "Recidiviz",
-    "meta": "Implementation Engineer Recidiviz New York, NY/Oakland, CA/Remote (US) - $97K Software Engineering Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 2 days ago",
+    "meta": "Implementation Engineer Recidiviz New York, NY/Oakland, CA/Remote (US) - $97K Software Engineering Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 3 days ago",
     "title": "Implementation Engineer",
     "url": "https://techjobsforgood.com/jobs/35204/?ref=homepage"
   },
   "35205": {
     "employer": "Recidiviz",
-    "meta": "Director of Product Recidiviz New York, NY/Oakland, CA/Remote (US) - $201K Product Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 2 days ago",
+    "meta": "Director of Product Recidiviz New York, NY/Oakland, CA/Remote (US) - $201K Product Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 3 days ago",
     "title": "Director of Product",
     "url": "https://techjobsforgood.com/jobs/35205/?ref=homepage"
   },
   "35229": {
     "employer": "Welcome.US",
-    "meta": "Platform Operations Specialist Welcome.US Remote (US) - $70K - $90K Product Human Rights & Equality Partners & Advocates Public Service & Civic Engagement Americans have the desire to welcome newcomers and help them thrive. Welcome.US empowers Welcomers across the United States to unleash that capacity and build community. Posted 1 day ago",
+    "meta": "Platform Operations Specialist Welcome.US Remote (US) - $70K - $90K Product Human Rights & Equality Partners & Advocates Public Service & Civic Engagement Americans have the desire to welcome newcomers and help them thrive. Welcome.US empowers Welcomers across the United States to unleash that capacity and build community. Posted 2 days ago",
     "title": "Platform Operations Specialist",
     "url": "https://techjobsforgood.com/jobs/35229/?ref=homepage"
   },
   "35230": {
     "employer": "Green River",
-    "meta": "Data Engineer Green River Remote (US) - $120K - $135K Data + Analytics Partners & Advocates Education Health & Well-Being Green River sees sustainability intelligence\u2014using data to make and justify good decisions\u2014as the means for organizational transformation. Posted 1 day ago",
+    "meta": "Data Engineer Green River Remote (US) - $120K - $135K Data + Analytics Partners & Advocates Education Health & Well-Being Green River sees sustainability intelligence\u2014using data to make and justify good decisions\u2014as the means for organizational transformation. Posted 2 days ago",
     "title": "Data Engineer",
     "url": "https://techjobsforgood.com/jobs/35230/?ref=homepage"
   },
   "35232": {
     "employer": "ProPublica",
-    "meta": "Product Manager, Membership Growth and Development ProPublica New York, NY / Remote (US) - $90K - $145K Product Public Service & Civic Engagement Public Infrastructure Partners & Advocates ProPublica is an independent, nonprofit newsroom that produces investigative journalism with moral force. We dig deep into important issues, shining a light on abuses of power and betrayals of public trust \u2014 and we stick with those issues as long as it takes to hold power to account. Posted 1 day ago",
+    "meta": "Product Manager, Membership Growth and Development ProPublica New York, NY / Remote (US) - $90K - $145K Product Public Service & Civic Engagement Public Infrastructure Partners & Advocates ProPublica is an independent, nonprofit newsroom that produces investigative journalism with moral force. We dig deep into important issues, shining a light on abuses of power and betrayals of public trust \u2014 and we stick with those issues as long as it takes to hold power to account. Posted 2 days ago",
     "title": "Product Manager, Membership Growth and Development",
     "url": "https://techjobsforgood.com/jobs/35232/?ref=homepage"
   }
