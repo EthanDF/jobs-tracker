@@ -1,16 +1,4 @@
 {
-  "34759": {
-    "employer": "January Advisors",
-    "meta": "Marketing and Community Manager January Advisors Remote (US) - $75K - $95K Digital Marketing Economic\n                                        Development Public Service & Civic Engagement Partners & Advocates January Advisors is a data science consulting firm that works with nonprofits and governments across the United States. We work on projects that help people clear their criminal histories, take action against air polluters, track and monitor evictions in their communities, and much more. Posted 4 weeks ago",
-    "title": "Marketing and Community Manager",
-    "url": "https://techjobsforgood.com/jobs/34759/?ref=homepage"
-  },
-  "34810": {
-    "employer": "ROI Solutions, Inc",
-    "meta": "Product Support Engineer ROI Solutions, Inc Medford, MA/Boston, MA/Remote (US) - $95K - $110K Product Partners & Advocates ROI Solutions is a nonprofit technology solutions provider. We provide the best products and services that enable nonprofits to solve the world\u2019s problems. This is our singular focus. Posted 4 weeks ago",
-    "title": "Product Support Engineer",
-    "url": "https://techjobsforgood.com/jobs/34810/?ref=homepage"
-  },
   "34833": {
     "employer": "Transcend Education",
     "meta": "Partner, Design Journey Content Lead Transcend Education Remote (US) - $135K - $180K Design + UX Transcend is an EdTech company that offers innovative online learning solutions. Posted 3 weeks ago",
@@ -46,6 +34,12 @@
     "meta": "Staff Data Engineer Butterfly Network Remote (US) - $185K - $195K Data + Analytics Health & Well-Being Our mission is to democratize healthcare by making medical imaging accessible to everyone around the world. Posted 3 weeks ago",
     "title": "Staff Data Engineer",
     "url": "https://techjobsforgood.com/jobs/34900/?ref=homepage"
+  },
+  "34903": {
+    "employer": "New Teacher Center",
+    "meta": "Manager, Measurement and Evaluation New Teacher Center Remote (US) - $83K - $91K Information Technology New Teacher Center is an education organization that builds a resilient, modern educator workforce through enriching professional learning that inspires teachers to stay, grow, and lead. Posted 3 weeks ago",
+    "title": "Manager, Measurement and Evaluation",
+    "url": "https://techjobsforgood.com/jobs/34903/?ref=homepage"
   },
   "34905": {
     "employer": "Guild",
@@ -113,6 +107,12 @@
     "title": "Mobile Engineer - Android (Senior Level)",
     "url": "https://techjobsforgood.com/jobs/35154/?ref=homepage"
   },
+  "35192": {
+    "employer": "Civic Nation",
+    "meta": "Digital Director, Party at the Polls Civic Nation Remote (US) - $105K Information Technology Public Service & Civic Engagement Partners & Advocates Civic Nation\u2019s mission is to empower individuals, companies, institutions, and organizations to create a more inclusive, equitable America. We are a home for change-makers who inspire, educate, and activate people around the issues that will define this generation \u2014 strengthening democracy; fostering civic engagement, social justice and voter participation; addressing public health crises; fighting for gender equity; and more. Posted 1 week ago",
+    "title": "Digital Director, Party at the Polls",
+    "url": "https://techjobsforgood.com/jobs/35192/?ref=homepage"
+  },
   "35204": {
     "employer": "Recidiviz",
     "meta": "Implementation Engineer Recidiviz New York, NY/Oakland, CA/Remote (US) - $97K Software Engineering Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 1 week ago",
@@ -145,38 +145,38 @@
   },
   "35336": {
     "employer": "Full Circle Future",
-    "meta": "Lead Analyst Full Circle Future Remote (US) - $90K Data + Analytics Environment Public Infrastructure Health & Well-Being Full Circle Future is a waste management company that specializes in organic waste solutions to reduce landfill impact and promote sustainability. Posted 2 days ago",
+    "meta": "Lead Analyst Full Circle Future Remote (US) - $90K Data + Analytics Environment Public Infrastructure Health & Well-Being Full Circle Future is a waste management company that specializes in organic waste solutions to reduce landfill impact and promote sustainability. Posted 3 days ago",
     "title": "Lead Analyst",
     "url": "https://techjobsforgood.com/jobs/35336/?ref=homepage"
   },
-  "35337": {
-    "employer": "Americares",
-    "meta": "Director, Global Information Security Americares Remote (US) - $137K - $151K Information Technology Americares is a health-focused relief and development organization that provides life-changing medicine, medical supplies, and health services to those affected by poverty or disaster. Posted 2 days ago",
-    "title": "Director, Global Information Security",
-    "url": "https://techjobsforgood.com/jobs/35337/?ref=homepage"
-  },
   "35338": {
     "employer": "Americares",
-    "meta": "Director, Global Enterprise Applications Americares Remote (US) - $137K - $151K Information Technology Americares is a health-focused relief and development organization that provides life-changing medicine, medical supplies, and health services to those affected by poverty or disaster. Posted 2 days ago",
+    "meta": "Director, Global Enterprise Applications Americares Remote (US) - $137K - $151K Information Technology Americares is a health-focused relief and development organization that provides life-changing medicine, medical supplies, and health services to those affected by poverty or disaster. Posted 3 days ago",
     "title": "Director, Global Enterprise Applications",
     "url": "https://techjobsforgood.com/jobs/35338/?ref=homepage"
   },
   "35342": {
     "employer": "Intertribal Software",
-    "meta": "Senior Software Developer Intertribal Software Remote (US) - $80K - $90K Software Engineering Partners & Advocates Our mission is to be the most trusted technology partner for Tribal Nations, by providing sustainable and high qualty enterprise software to support each Tribes unique vision, culture, and values. Posted 2 days ago",
+    "meta": "Senior Software Developer Intertribal Software Remote (US) - $80K - $90K Software Engineering Partners & Advocates Our mission is to be the most trusted technology partner for Tribal Nations, by providing sustainable and high qualty enterprise software to support each Tribe's unique vision, culture, and values. Posted 3 days ago",
     "title": "Senior Software Developer",
     "url": "https://techjobsforgood.com/jobs/35342/?ref=homepage"
   },
   "35449": {
     "employer": "Consumer Reports",
-    "meta": "Senior Product Engineer Consumer Reports Remote (Select US states) - $120K - $160K Software Engineering Public Service & Civic Engagement Partners & Advocates Consumer Reports is an independent, nonprofit member organization that works side by side with consumers for truth, transparency, and fairness in the marketplace. Posted 1 day ago",
+    "meta": "Senior Product Engineer Consumer Reports Remote (Select US states) - $120K - $160K Software Engineering Public Service & Civic Engagement Partners & Advocates Consumer Reports is an independent, nonprofit member organization that works side by side with consumers for truth, transparency, and fairness in the marketplace. Posted 2 days ago",
     "title": "Senior Product Engineer",
     "url": "https://techjobsforgood.com/jobs/35449/?ref=homepage"
   },
   "35450": {
     "employer": "Consumer Reports",
-    "meta": "Senior Research Engineer Consumer Reports Remote (Select US states) - $120K - $160K Software Engineering Public Service & Civic Engagement Partners & Advocates Consumer Reports is an independent, nonprofit member organization that works side by side with consumers for truth, transparency, and fairness in the marketplace. Posted 1 day ago",
+    "meta": "Senior Research Engineer Consumer Reports Remote (Select US states) - $120K - $160K Software Engineering Public Service & Civic Engagement Partners & Advocates Consumer Reports is an independent, nonprofit member organization that works side by side with consumers for truth, transparency, and fairness in the marketplace. Posted 2 days ago",
     "title": "Senior Research Engineer",
     "url": "https://techjobsforgood.com/jobs/35450/?ref=homepage"
+  },
+  "35489": {
+    "employer": "CIMA",
+    "meta": "Associate Director of Technology (Part-Time) CIMA Remote (US) - $55 - $65 Per Hour Software Engineering Education Environment Partners & Advocates CIMA Consulting is a consulting firm that provides clients with strategic insight and support through communications, business development, and organizational design. Posted 21 hours ago",
+    "title": "Associate Director of Technology (Part-Time)",
+    "url": "https://techjobsforgood.com/jobs/35489/?ref=homepage"
   }
 }
