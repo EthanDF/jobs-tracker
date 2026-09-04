@@ -1,16 +1,4 @@
 {
-  "data-and-training-coordinator": {
-    "employer": "Data and Training Coordinator",
-    "meta": "Posted on Jul 6, 2026 Data and Training Coordinator New York Civic Engagement Table Learn more \u2192",
-    "title": "Data and Training Coordinator",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-and-training-coordinator/"
-  },
-  "data-associate-4": {
-    "employer": "Data Associate",
-    "meta": "Posted on Jun 29, 2026 Data Associate Minnesota DFL Learn more \u2192",
-    "title": "Data Associate",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-associate-4/"
-  },
   "data-director-2": {
     "employer": "Data Director",
     "meta": "Posted on Jul 27, 2026 Data Director Battleground Alliance Learn more \u2192",
@@ -22,12 +10,6 @@
     "meta": "Posted on Aug 4, 2026 Data Director The 2026 Virginia Coordinated Campaign Learn more \u2192",
     "title": "Data Director",
     "url": "https://www.progressivedatajobs.org/job-posting/data-director-3/"
-  },
-  "data-engineering-intern": {
-    "employer": "Data Engineering Intern",
-    "meta": "Posted on Jul 7, 2026 Data Engineering Intern Powered by People Learn more \u2192",
-    "title": "Data Engineering Intern",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-engineering-intern/"
   },
   "data-manager-2": {
     "employer": "Data Manager",
@@ -41,17 +23,23 @@
     "title": "Data & Systems Lead",
     "url": "https://www.progressivedatajobs.org/job-posting/data-systems-lead/"
   },
-  "data-technologist": {
-    "employer": "Data Technologist",
-    "meta": "Posted on Jun 25, 2026 Data Technologist stac labs Learn more \u2192",
-    "title": "Data Technologist",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-technologist/"
+  "digital-ads-strategist-contract": {
+    "employer": "Digital Ads Strategist (Contract)",
+    "meta": "Posted on Sep 3, 2026 Digital Ads Strategist (Contract) Online to Offline Strategy Group Learn more \u2192",
+    "title": "Digital Ads Strategist (Contract)",
+    "url": "https://www.progressivedatajobs.org/job-posting/digital-ads-strategist-contract/"
   },
   "fundraising-analyst": {
     "employer": "Fundraising Analyst",
     "meta": "Posted on Aug 10, 2026 Fundraising Analyst Democratic National Committee Learn more \u2192",
     "title": "Fundraising Analyst",
     "url": "https://www.progressivedatajobs.org/job-posting/fundraising-analyst/"
+  },
+  "gotv-data-associate": {
+    "employer": "GOTV Data Associate",
+    "meta": "Posted on Sep 3, 2026 GOTV Data Associate Texas Democratic Party Learn more \u2192",
+    "title": "GOTV Data Associate",
+    "url": "https://www.progressivedatajobs.org/job-posting/gotv-data-associate/"
   },
   "political-data-coordinator-east-coast": {
     "employer": "Political Data Coordinator (East Coast)",
@@ -65,10 +53,22 @@
     "title": "Product Manager / Senior Product Manager",
     "url": "https://www.progressivedatajobs.org/job-posting/product-manager-senior-product-manager/"
   },
+  "senior-analytics-manager-i": {
+    "employer": "Senior Analytics Manager I",
+    "meta": "Posted on Sep 3, 2026 Senior Analytics Manager I BlueLabs Learn more \u2192",
+    "title": "Senior Analytics Manager I",
+    "url": "https://www.progressivedatajobs.org/job-posting/senior-analytics-manager-i/"
+  },
   "senior-fundraising-systems-manager-fundraising-systems-director-major-donor": {
     "employer": "Senior Fundraising Systems Manager | Fundraising Systems Director (Major Donor)",
     "meta": "Posted on Aug 10, 2026 Senior Fundraising Systems Manager | Fundraising Systems Director (Major Donor) Movement Labs Learn more \u2192",
     "title": "Senior Fundraising Systems Manager | Fundraising Systems Director (Major Donor)",
     "url": "https://www.progressivedatajobs.org/job-posting/senior-fundraising-systems-manager-fundraising-systems-director-major-donor/"
+  },
+  "senior-fundraising-systems-manager-fundraising-systems-director-major-donor-2": {
+    "employer": "Senior Fundraising Systems Manager | Fundraising Systems Director (Major Donor)",
+    "meta": "Posted on Sep 3, 2026 Senior Fundraising Systems Manager | Fundraising Systems Director (Major Donor) Movement Labs Learn more \u2192",
+    "title": "Senior Fundraising Systems Manager | Fundraising Systems Director (Major Donor)",
+    "url": "https://www.progressivedatajobs.org/job-posting/senior-fundraising-systems-manager-fundraising-systems-director-major-donor-2/"
   }
 }
