@@ -1,16 +1,4 @@
 {
-  "35204": {
-    "employer": "Recidiviz",
-    "meta": "Implementation Engineer Recidiviz New York, NY/Oakland, CA/Remote (US) - $97K Software Engineering Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 4 weeks ago",
-    "title": "Implementation Engineer",
-    "url": "https://techjobsforgood.com/jobs/35204/?ref=homepage"
-  },
-  "35205": {
-    "employer": "Recidiviz",
-    "meta": "Director of Product Recidiviz New York, NY/Oakland, CA/Remote (US) - $201K Product Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 4 weeks ago",
-    "title": "Director of Product",
-    "url": "https://techjobsforgood.com/jobs/35205/?ref=homepage"
-  },
   "35229": {
     "employer": "Welcome.US",
     "meta": "Platform Operations Specialist Welcome.US Remote (US) - $70K - $90K Product Human Rights & Equality Partners & Advocates Public Service & Civic Engagement Americans have the desire to welcome newcomers and help them thrive. Welcome.US empowers Welcomers across the United States to unleash that capacity and build community. Posted 4 weeks ago",
@@ -85,21 +73,27 @@
   },
   "35774": {
     "employer": "Clinton Health Access Initiative, Inc. (CHAI)",
-    "meta": "Data Platform Engineer Clinton Health Access Initiative, Inc. (CHAI) Remote (US) - $118K - $130K Software Engineering Health & Well-Being CHAI is a global health organization committed to our mission of saving lives and reducing the burden of disease in low-and middle-income countries. We work at the invitation of governments to support them and the private sector to create and sustain high-quality health systems. Posted 1 week ago",
+    "meta": "Data Platform Engineer Clinton Health Access Initiative, Inc. (CHAI) Remote (US) - $118K - $130K Software Engineering Health & Well-Being CHAI is a global health organization committed to our mission of saving lives and reducing the burden of disease in low-and middle-income countries. We work at the invitation of governments to support them and the private sector to create and sustain high-quality health systems. Posted 2 weeks ago",
     "title": "Data Platform Engineer",
     "url": "https://techjobsforgood.com/jobs/35774/?ref=homepage"
   },
   "35775": {
     "employer": "Chapter One NFP",
-    "meta": "Engineering Team Lead Chapter One NFP Remote (US) (East Coast preferred) - $170K - $190K Software Engineering Education Our mission is to substantially increase the reading abilities of elementary students. Through our two-year K\u20131 high-impact tutoring program, 78% of participating students were reading proficiently by the end of first grade, building a strong foundation for future success. Posted 1 week ago",
+    "meta": "Engineering Team Lead Chapter One NFP Remote (US) (East Coast preferred) - $170K - $190K Software Engineering Education Our mission is to substantially increase the reading abilities of elementary students. Through our two-year K\u20131 high-impact tutoring program, 78% of participating students were reading proficiently by the end of first grade, building a strong foundation for future success. Posted 2 weeks ago",
     "title": "Engineering Team Lead",
     "url": "https://techjobsforgood.com/jobs/35775/?ref=homepage"
   },
   "35776": {
     "employer": "Evident Change",
-    "meta": "Senior Full-Stack Software Engineer Evident Change Remote (US) - $108K - $115K Software Engineering Health & Well-Being Education Human Rights & Equality Evident Change is a nonprofit that uses data and research to improve our social systems. Posted 1 week ago",
+    "meta": "Senior Full-Stack Software Engineer Evident Change Remote (US) - $108K - $115K Software Engineering Health & Well-Being Education Human Rights & Equality Evident Change is a nonprofit that uses data and research to improve our social systems. Posted 2 weeks ago",
     "title": "Senior Full-Stack Software Engineer",
     "url": "https://techjobsforgood.com/jobs/35776/?ref=homepage"
+  },
+  "35785": {
+    "employer": "Great Minds",
+    "meta": "Senior Quality Assurance Analyst Great Minds Remote (US) - $84K - $95K Software Engineering Education Great Minds is an education company that specializes in curriculum development and educational resources. Posted 1 week ago",
+    "title": "Senior Quality Assurance Analyst",
+    "url": "https://techjobsforgood.com/jobs/35785/?ref=homepage"
   },
   "35786": {
     "employer": "Great Minds",
@@ -157,26 +151,32 @@
   },
   "35914": {
     "employer": "Scale to Win",
-    "meta": "Senior Software Engineer Scale to Win Remote (US) - $200K Software Engineering Public Service & Civic Engagement Partners & Advocates Scale to Win is a fully remote progressive political tech company, founded in 2020 by organizers from major Democratic presidential campaigns. We provide texting, dialing, and turnkey \u201cWe Text\u201d services to 3,000+ progressive clients including Biden-Harris and the Democratic National Convention. Posted 6 days ago",
+    "meta": "Senior Software Engineer Scale to Win Remote (US) - $200K Software Engineering Public Service & Civic Engagement Partners & Advocates Scale to Win is a fully remote progressive political tech company, founded in 2020 by organizers from major Democratic presidential campaigns. We provide texting, dialing, and turnkey \u201cWe Text\u201d services to 3,000+ progressive clients including Biden-Harris and the Democratic National Convention. Posted 1 week ago",
     "title": "Senior Software Engineer",
     "url": "https://techjobsforgood.com/jobs/35914/?ref=homepage"
   },
   "35920": {
     "employer": "ITHAKA",
-    "meta": "Engineering Manager, Transfer Explorer ITHAKA Remote (US) - $138K - $173K Information Technology Education We are a not-for-profit with a mission to improve access to knowledge and education for people around the world. We believe education is key to the well-being of individuals and society, and we work to make it more effective and affordable. Posted 6 days ago",
+    "meta": "Engineering Manager, Transfer Explorer ITHAKA Remote (US) - $138K - $173K Information Technology Education We are a not-for-profit with a mission to improve access to knowledge and education for people around the world. We believe education is key to the well-being of individuals and society, and we work to make it more effective and affordable. Posted 1 week ago",
     "title": "Engineering Manager, Transfer Explorer",
     "url": "https://techjobsforgood.com/jobs/35920/?ref=homepage"
   },
   "35932": {
     "employer": "Clarity Solutions Group",
-    "meta": "Data Product Manager (Consultant) Clarity Solutions Group Remote (US) - $100K - $140K Data + Analytics Health & Well-Being Economic\n                                        Development Partners & Advocates We\u2019re passionate about improving Health and Human Services (HHS) in the public and non-profit sectors.  Our focus is on creating a \u201cno wrong door\u201d system for public assistance access and eligibility determination using multi-channel communication technologies. Posted 5 days ago",
+    "meta": "Data Product Manager (Consultant) Clarity Solutions Group Remote (US) - $100K - $140K Data + Analytics Health & Well-Being Economic\n                                        Development Partners & Advocates We\u2019re passionate about improving Health and Human Services (HHS) in the public and non-profit sectors.  Our focus is on creating a \u201cno wrong door\u201d system for public assistance access and eligibility determination using multi-channel communication technologies. Posted 6 days ago",
     "title": "Data Product Manager (Consultant)",
     "url": "https://techjobsforgood.com/jobs/35932/?ref=homepage"
   },
   "35956": {
     "employer": "CareerVillage.org",
-    "meta": "Career & Curriculum Associate CareerVillage.org Remote (US) / New York, NY (Hybrid) - $85K - $100K Design + UX Education CareerVillage.org is a 501c3 with a mission is to democratize access to career information and advice for underrepresented youth. Posted 5 days ago",
+    "meta": "Career & Curriculum Associate CareerVillage.org Remote (US) / New York, NY (Hybrid) - $85K - $100K Design + UX Education CareerVillage.org is a 501c3 with a mission is to democratize access to career information and advice for underrepresented youth. Posted 6 days ago",
     "title": "Career & Curriculum Associate",
     "url": "https://techjobsforgood.com/jobs/35956/?ref=homepage"
+  },
+  "36013": {
+    "employer": "Calico Energy",
+    "meta": "Technical Data Analyst Calico Energy Remote (US) - $80K - $105K Data + Analytics Clean Energy Environment Public Infrastructure Calico Energy is a mission-driven company focused on scaling energy solutions and building decarbonization. Posted 18 hours ago",
+    "title": "Technical Data Analyst",
+    "url": "https://techjobsforgood.com/jobs/36013/?ref=homepage"
   }
 }
