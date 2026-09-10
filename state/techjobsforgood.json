@@ -1,22 +1,4 @@
 {
-  "35229": {
-    "employer": "Welcome.US",
-    "meta": "Platform Operations Specialist Welcome.US Remote (US) - $70K - $90K Product Human Rights & Equality Partners & Advocates Public Service & Civic Engagement Americans have the desire to welcome newcomers and help them thrive. Welcome.US empowers Welcomers across the United States to unleash that capacity and build community. Posted 4 weeks ago",
-    "title": "Platform Operations Specialist",
-    "url": "https://techjobsforgood.com/jobs/35229/?ref=homepage"
-  },
-  "35230": {
-    "employer": "Green River",
-    "meta": "Data Engineer Green River Remote (US) - $120K - $135K Data + Analytics Partners & Advocates Education Health & Well-Being Green River sees sustainability intelligence\u2014using data to make and justify good decisions\u2014as the means for organizational transformation. Posted 4 weeks ago",
-    "title": "Data Engineer",
-    "url": "https://techjobsforgood.com/jobs/35230/?ref=homepage"
-  },
-  "35232": {
-    "employer": "ProPublica",
-    "meta": "Product Manager, Membership Growth and Development ProPublica New York, NY / Remote (US) - $90K - $145K Product Public Service & Civic Engagement Public Infrastructure Partners & Advocates ProPublica is an independent, nonprofit newsroom that produces investigative journalism with moral force. We dig deep into important issues, shining a light on abuses of power and betrayals of public trust \u2014 and we stick with those issues as long as it takes to hold power to account. Posted 4 weeks ago",
-    "title": "Product Manager, Membership Growth and Development",
-    "url": "https://techjobsforgood.com/jobs/35232/?ref=homepage"
-  },
   "35336": {
     "employer": "Full Circle Future",
     "meta": "Lead Analyst Full Circle Future Remote (US) - $90K Data + Analytics Environment Public Infrastructure Health & Well-Being Full Circle Future is a waste management company that specializes in organic waste solutions to reduce landfill impact and promote sustainability. Posted 3 weeks ago",
@@ -107,6 +89,12 @@
     "title": "Technical Support Specialist",
     "url": "https://techjobsforgood.com/jobs/35787/?ref=homepage"
   },
+  "35788": {
+    "employer": "Great Minds",
+    "meta": "Senior Director, Product Management - Math Great Minds Remote (US) - $202K - $219K Product Education Great Minds is an education company that specializes in curriculum development and educational resources. Posted 1 week ago",
+    "title": "Senior Director, Product Management - Math",
+    "url": "https://techjobsforgood.com/jobs/35788/?ref=homepage"
+  },
   "35791": {
     "employer": "Great Minds",
     "meta": "Senior Product Manager - Math Great Minds Remote (US) - $101K - $111K Product Education Great Minds is an education company that specializes in curriculum development and educational resources. Posted 1 week ago",
@@ -143,6 +131,12 @@
     "title": "Senior Oracle Database Administrator (Sr Oracle DBA)",
     "url": "https://techjobsforgood.com/jobs/35843/?ref=homepage"
   },
+  "35844": {
+    "employer": "Acclinate",
+    "meta": "Lead Data Engineer Acclinate Remote (US) - $79K - $116K Data + Analytics Partners & Advocates Human Rights & Equality Health & Well-Being Together we can transform the status quo of clinical research. We are working to ensure minorities are #NOWINCLUDED Posted 1 week ago",
+    "title": "Lead Data Engineer",
+    "url": "https://techjobsforgood.com/jobs/35844/?ref=homepage"
+  },
   "35845": {
     "employer": "Butterfly Network",
     "meta": "Remote Principal Full Stack Software Engineer Butterfly Network Remote (US) - $200K - $230K Software Engineering Health & Well-Being Our mission is to democratize healthcare by making medical imaging accessible to everyone around the world. Posted 1 week ago",
@@ -163,20 +157,26 @@
   },
   "35932": {
     "employer": "Clarity Solutions Group",
-    "meta": "Data Product Manager (Consultant) Clarity Solutions Group Remote (US) - $100K - $140K Data + Analytics Health & Well-Being Economic\n                                        Development Partners & Advocates We\u2019re passionate about improving Health and Human Services (HHS) in the public and non-profit sectors.  Our focus is on creating a \u201cno wrong door\u201d system for public assistance access and eligibility determination using multi-channel communication technologies. Posted 6 days ago",
+    "meta": "Data Product Manager (Consultant) Clarity Solutions Group Remote (US) - $100K - $140K Data + Analytics Health & Well-Being Economic\n                                        Development Partners & Advocates We\u2019re passionate about improving Health and Human Services (HHS) in the public and non-profit sectors.  Our focus is on creating a \u201cno wrong door\u201d system for public assistance access and eligibility determination using multi-channel communication technologies. Posted 1 week ago",
     "title": "Data Product Manager (Consultant)",
     "url": "https://techjobsforgood.com/jobs/35932/?ref=homepage"
   },
   "35956": {
     "employer": "CareerVillage.org",
-    "meta": "Career & Curriculum Associate CareerVillage.org Remote (US) / New York, NY (Hybrid) - $85K - $100K Design + UX Education CareerVillage.org is a 501c3 with a mission is to democratize access to career information and advice for underrepresented youth. Posted 6 days ago",
+    "meta": "Career & Curriculum Associate CareerVillage.org Remote (US) / New York, NY (Hybrid) - $85K - $100K Design + UX Education CareerVillage.org is a 501c3 with a mission is to democratize access to career information and advice for underrepresented youth. Posted 1 week ago",
     "title": "Career & Curriculum Associate",
     "url": "https://techjobsforgood.com/jobs/35956/?ref=homepage"
   },
   "36013": {
     "employer": "Calico Energy",
-    "meta": "Technical Data Analyst Calico Energy Remote (US) - $80K - $105K Data + Analytics Clean Energy Environment Public Infrastructure Calico Energy is a mission-driven company focused on scaling energy solutions and building decarbonization. Posted 18 hours ago",
+    "meta": "Technical Data Analyst Calico Energy Remote (US) - $80K - $105K Data + Analytics Clean Energy Environment Public Infrastructure Calico Energy is a mission-driven company focused on scaling energy solutions and building decarbonization. Posted 1 day ago",
     "title": "Technical Data Analyst",
     "url": "https://techjobsforgood.com/jobs/36013/?ref=homepage"
+  },
+  "36016": {
+    "employer": "Electric Hydrogen",
+    "meta": "Senior Network Systems Engineer Electric Hydrogen Remote (US) - $135K - $160K Information Technology Clean Energy Climate Change Our mission is to create an abundant and decarbonized material future. Our goal is to deliver hydrogen from renewable electrolysis for heavy industry, at prices below fossil fuels. Posted 1 day ago",
+    "title": "Senior Network Systems Engineer",
+    "url": "https://techjobsforgood.com/jobs/36016/?ref=homepage"
   }
 }
