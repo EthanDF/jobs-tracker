@@ -1,16 +1,4 @@
 {
-  "35336": {
-    "employer": "Full Circle Future",
-    "meta": "Lead Analyst Full Circle Future Remote (US) - $90K Data + Analytics Environment Public Infrastructure Health & Well-Being Full Circle Future is a waste management company that specializes in organic waste solutions to reduce landfill impact and promote sustainability. Posted 4 weeks ago",
-    "title": "Lead Analyst",
-    "url": "https://techjobsforgood.com/jobs/35336/?ref=homepage"
-  },
-  "35449": {
-    "employer": "Consumer Reports",
-    "meta": "Senior Product Engineer Consumer Reports Remote (Select US states) - $120K - $160K Software Engineering Public Service & Civic Engagement Partners & Advocates Consumer Reports is an independent, nonprofit member organization that works side by side with consumers for truth, transparency, and fairness in the marketplace. Posted 4 weeks ago",
-    "title": "Senior Product Engineer",
-    "url": "https://techjobsforgood.com/jobs/35449/?ref=homepage"
-  },
   "35450": {
     "employer": "Consumer Reports",
     "meta": "Senior Research Engineer Consumer Reports Remote (Select US states) - $120K - $160K Software Engineering Public Service & Civic Engagement Partners & Advocates Consumer Reports is an independent, nonprofit member organization that works side by side with consumers for truth, transparency, and fairness in the marketplace. Posted 4 weeks ago",
@@ -46,6 +34,12 @@
     "meta": "Chief Technology Officer Mercy Corps Remote (Global) (preference for Netherlands / France / Republic of Ireland / Belgium / United Kingdom) - $220K - $230K Information Technology Partners & Advocates Economic\n                                        Development Mercy Corps is a global team of humanitarians working together on the front lines of today\u2019s biggest crises to create a future of possibility, where everyone can prosper. Our mission: to alleviate suffering, poverty and oppression by helping people build secure, productive and just communities. Posted 3 weeks ago",
     "title": "Chief Technology Officer",
     "url": "https://techjobsforgood.com/jobs/35636/?ref=homepage"
+  },
+  "35673": {
+    "employer": "Exygy",
+    "meta": "Senior Site Reliability Engineer Exygy Remote (US) - $112K - $140K Software Engineering Partners & Advocates Economic\n                                        Development Human Rights & Equality Exygy is a digital innovation studio on a mission to build resilient and healthy communities. We enable impact-focused organizations to rethink experiences and create digital products that solve their problems and delight users. Posted 3 weeks ago",
+    "title": "Senior Site Reliability Engineer",
+    "url": "https://techjobsforgood.com/jobs/35673/?ref=homepage"
   },
   "35727": {
     "employer": "Enveritas",
@@ -83,6 +77,18 @@
     "title": "Technical Support Specialist",
     "url": "https://techjobsforgood.com/jobs/35787/?ref=homepage"
   },
+  "35788": {
+    "employer": "Great Minds",
+    "meta": "Senior Director, Product Management - Math Great Minds Remote (US) - $202K - $219K Product Education Great Minds is an education company that specializes in curriculum development and educational resources. Posted 2 weeks ago",
+    "title": "Senior Director, Product Management - Math",
+    "url": "https://techjobsforgood.com/jobs/35788/?ref=homepage"
+  },
+  "35790": {
+    "employer": "Great Minds",
+    "meta": "Senior Manager, Product - Literacy Great Minds Remote (US) - $140K - $150K Product Education Great Minds is an education company that specializes in curriculum development and educational resources. Posted 2 weeks ago",
+    "title": "Senior Manager, Product - Literacy",
+    "url": "https://techjobsforgood.com/jobs/35790/?ref=homepage"
+  },
   "35791": {
     "employer": "Great Minds",
     "meta": "Senior Product Manager - Math Great Minds Remote (US) - $101K - $111K Product Education Great Minds is an education company that specializes in curriculum development and educational resources. Posted 2 weeks ago",
@@ -94,6 +100,12 @@
     "meta": "IT Product Support Specialist Great Minds Remote (US) - $69K - $77K Information Technology Education Great Minds is an education company that specializes in curriculum development and educational resources. Posted 2 weeks ago",
     "title": "IT Product Support Specialist",
     "url": "https://techjobsforgood.com/jobs/35792/?ref=homepage"
+  },
+  "35795": {
+    "employer": "Children's Hospital Los Angeles",
+    "meta": "CloudOps Engineer II Children's Hospital Los Angeles Remote (CA) - $123K - $127K Software Engineering Health & Well-Being Helping families live healthier lives Posted 2 weeks ago",
+    "title": "CloudOps Engineer II",
+    "url": "https://techjobsforgood.com/jobs/35795/?ref=homepage"
   },
   "35796": {
     "employer": "Children's Hospital Los Angeles",
@@ -119,6 +131,12 @@
     "title": "Senior Oracle Database Administrator (Sr Oracle DBA)",
     "url": "https://techjobsforgood.com/jobs/35843/?ref=homepage"
   },
+  "35844": {
+    "employer": "Acclinate",
+    "meta": "Lead Data Engineer Acclinate Remote (US) - $79K - $116K Data + Analytics Partners & Advocates Human Rights & Equality Health & Well-Being Together we can transform the status quo of clinical research. We are working to ensure minorities are #NOWINCLUDED Posted 2 weeks ago",
+    "title": "Lead Data Engineer",
+    "url": "https://techjobsforgood.com/jobs/35844/?ref=homepage"
+  },
   "35845": {
     "employer": "Butterfly Network",
     "meta": "Remote Principal Full Stack Software Engineer Butterfly Network Remote (US) - $200K - $230K Software Engineering Health & Well-Being Our mission is to democratize healthcare by making medical imaging accessible to everyone around the world. Posted 2 weeks ago",
@@ -137,39 +155,21 @@
     "title": "Engineering Manager, Transfer Explorer",
     "url": "https://techjobsforgood.com/jobs/35920/?ref=homepage"
   },
-  "35932": {
-    "employer": "Clarity Solutions Group",
-    "meta": "Data Product Manager (Consultant) Clarity Solutions Group Remote (US) - $100K - $140K Data + Analytics Health & Well-Being Economic\n                                        Development Partners & Advocates We\u2019re passionate about improving Health and Human Services (HHS) in the public and non-profit sectors.  Our focus is on creating a \u201cno wrong door\u201d system for public assistance access and eligibility determination using multi-channel communication technologies. Posted 2 weeks ago",
-    "title": "Data Product Manager (Consultant)",
-    "url": "https://techjobsforgood.com/jobs/35932/?ref=homepage"
-  },
-  "35956": {
-    "employer": "CareerVillage.org",
-    "meta": "Career & Curriculum Associate CareerVillage.org Remote (US) / New York, NY (Hybrid) - $85K - $100K Design + UX Education CareerVillage.org is a 501c3 with a mission is to democratize access to career information and advice for underrepresented youth. Posted 2 weeks ago",
-    "title": "Career & Curriculum Associate",
-    "url": "https://techjobsforgood.com/jobs/35956/?ref=homepage"
-  },
   "36013": {
     "employer": "Calico Energy",
-    "meta": "Technical Data Analyst Calico Energy Remote (US) - $80K - $105K Data + Analytics Clean Energy Environment Public Infrastructure Calico Energy is a mission-driven company focused on scaling energy solutions and building decarbonization. Posted 5 days ago",
+    "meta": "Technical Data Analyst Calico Energy Remote (US) - $80K - $105K Data + Analytics Clean Energy Environment Public Infrastructure Calico Energy is a mission-driven company focused on scaling energy solutions and building decarbonization. Posted 6 days ago",
     "title": "Technical Data Analyst",
     "url": "https://techjobsforgood.com/jobs/36013/?ref=homepage"
   },
-  "36016": {
-    "employer": "Electric Hydrogen",
-    "meta": "Senior Network Systems Engineer Electric Hydrogen Remote (US) - $135K - $160K Information Technology Clean Energy Climate Change Our mission is to create an abundant and decarbonized material future. Our goal is to deliver hydrogen from renewable electrolysis for heavy industry, at prices below fossil fuels. Posted 5 days ago",
-    "title": "Senior Network Systems Engineer",
-    "url": "https://techjobsforgood.com/jobs/36016/?ref=homepage"
-  },
   "36088": {
     "employer": "Rune Labs",
-    "meta": "Mobile Engineer (Android) Rune Labs Remote (US/Canada) - $175K - $185K Software Engineering Health & Well-Being Partners & Advocates Leading precision neurology in Parkinson\u2019s Disease. Posted 4 days ago",
+    "meta": "Mobile Engineer (Android) Rune Labs Remote (US/Canada) - $175K - $185K Software Engineering Health & Well-Being Partners & Advocates Leading precision neurology in Parkinson\u2019s Disease. Posted 5 days ago",
     "title": "Mobile Engineer (Android)",
     "url": "https://techjobsforgood.com/jobs/36088/?ref=homepage"
   },
   "36089": {
     "employer": "ROI Solutions, Inc",
-    "meta": "Senior PL/SQL Developer ROI Solutions, Inc Medford, MA / Boston, MA / Remote (Select US States) - $115K - $125K Software Engineering Partners & Advocates ROI Solutions is a nonprofit technology solutions provider. We provide the best products and services that enable nonprofits to solve the world\u2019s problems. This is our singular focus. Posted 4 days ago",
+    "meta": "Senior PL/SQL Developer ROI Solutions, Inc Medford, MA / Boston, MA / Remote (Select US States) - $115K - $125K Software Engineering Partners & Advocates ROI Solutions is a nonprofit technology solutions provider. We provide the best products and services that enable nonprofits to solve the world\u2019s problems. This is our singular focus. Posted 5 days ago",
     "title": "Senior PL/SQL Developer",
     "url": "https://techjobsforgood.com/jobs/36089/?ref=homepage"
   },
