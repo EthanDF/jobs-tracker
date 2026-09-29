@@ -1,10 +1,4 @@
 {
-  "data-director-2": {
-    "employer": "Data Director",
-    "meta": "Posted on Jul 27, 2026 Data Director Battleground Alliance Learn more \u2192",
-    "title": "Data Director",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-director-2/"
-  },
   "data-director-3": {
     "employer": "Data Director",
     "meta": "Posted on Aug 4, 2026 Data Director The 2026 Virginia Coordinated Campaign Learn more \u2192",
@@ -16,6 +10,12 @@
     "meta": "Posted on Aug 4, 2026 Data Manager Mississippi Data Hub Learn more \u2192",
     "title": "Data Manager",
     "url": "https://www.progressivedatajobs.org/job-posting/data-manager-2/"
+  },
+  "data-scientist": {
+    "employer": "Data Scientist",
+    "meta": "Posted on Sep 29, 2026 Data Scientist Democratic National Committee Learn more \u2192",
+    "title": "Data Scientist",
+    "url": "https://www.progressivedatajobs.org/job-posting/data-scientist/"
   },
   "data-systems-lead": {
     "employer": "Data & Systems Lead",
