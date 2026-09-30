@@ -1,15 +1,9 @@
 {
-  "data-director-3": {
-    "employer": "Data Director",
-    "meta": "Posted on Aug 4, 2026 Data Director The 2026 Virginia Coordinated Campaign Learn more \u2192",
-    "title": "Data Director",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-director-3/"
-  },
-  "data-manager-2": {
-    "employer": "Data Manager",
-    "meta": "Posted on Aug 4, 2026 Data Manager Mississippi Data Hub Learn more \u2192",
-    "title": "Data Manager",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-manager-2/"
+  "data-contractor": {
+    "employer": "Data contractor",
+    "meta": "Posted on Sep 29, 2026 Data contractor Crowdwave Campaigns Learn more \u2192",
+    "title": "Data contractor",
+    "url": "https://www.progressivedatajobs.org/job-posting/data-contractor/"
   },
   "data-scientist": {
     "employer": "Data Scientist",
@@ -28,6 +22,12 @@
     "meta": "Posted on Sep 3, 2026 Digital Ads Strategist (Contract) Online to Offline Strategy Group Learn more \u2192",
     "title": "Digital Ads Strategist (Contract)",
     "url": "https://www.progressivedatajobs.org/job-posting/digital-ads-strategist-contract/"
+  },
+  "full-stack-developer": {
+    "employer": "Full Stack Developer",
+    "meta": "Posted on Sep 29, 2026 Full Stack Developer Heatmap News Learn more \u2192",
+    "title": "Full Stack Developer",
+    "url": "https://www.progressivedatajobs.org/job-posting/full-stack-developer/"
   },
   "fundraising-analyst": {
     "employer": "Fundraising Analyst",
