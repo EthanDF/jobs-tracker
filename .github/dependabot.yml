@@ -1,0 +1,7 @@
+version: 2
+updates:
+  # Opens a PR when actions/checkout, actions/setup-python, etc. release new versions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
