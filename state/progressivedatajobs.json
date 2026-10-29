@@ -1,4 +1,10 @@
 {
+  "business-development-associate": {
+    "employer": "Business Development Associate",
+    "meta": "Posted on Oct 29, 2026 Business Development Associate Catalist Learn more \u2192",
+    "title": "Business Development Associate",
+    "url": "https://www.progressivedatajobs.org/job-posting/business-development-associate/"
+  },
   "data-analytics-and-strategy-director": {
     "employer": "Data Analytics and Strategy Director",
     "meta": "Posted on Oct 20, 2026 Data Analytics and Strategy Director SEIU Local 32BJ Learn more \u2192",
@@ -22,12 +28,6 @@
     "meta": "Posted on Sep 29, 2026 Data Scientist Democratic National Committee Learn more \u2192",
     "title": "Data Scientist",
     "url": "https://www.progressivedatajobs.org/job-posting/data-scientist/"
-  },
-  "data-systems-lead": {
-    "employer": "Data & Systems Lead",
-    "meta": "Posted on Aug 19, 2026 Data & Systems Lead United We Dream Network Learn more \u2192",
-    "title": "Data & Systems Lead",
-    "url": "https://www.progressivedatajobs.org/job-posting/data-systems-lead/"
   },
   "digital-ads-strategist-contract": {
     "employer": "Digital Ads Strategist (Contract)",
@@ -53,17 +53,17 @@
     "title": "GOTV Data Associate",
     "url": "https://www.progressivedatajobs.org/job-posting/gotv-data-associate/"
   },
-  "political-data-coordinator-east-coast": {
-    "employer": "Political Data Coordinator (East Coast)",
-    "meta": "Posted on Aug 19, 2026 Political Data Coordinator (East Coast) The Pivot Group Learn more \u2192",
-    "title": "Political Data Coordinator (East Coast)",
-    "url": "https://www.progressivedatajobs.org/job-posting/political-data-coordinator-east-coast/"
-  },
   "senior-analytics-manager-i": {
     "employer": "Senior Analytics Manager I",
     "meta": "Posted on Sep 3, 2026 Senior Analytics Manager I BlueLabs Learn more \u2192",
     "title": "Senior Analytics Manager I",
     "url": "https://www.progressivedatajobs.org/job-posting/senior-analytics-manager-i/"
+  },
+  "senior-data-analyst-2": {
+    "employer": "Senior Data Analyst",
+    "meta": "Posted on Oct 29, 2026 Senior Data Analyst NEA Learn more \u2192",
+    "title": "Senior Data Analyst",
+    "url": "https://www.progressivedatajobs.org/job-posting/senior-data-analyst-2/"
   },
   "senior-fundraising-systems-manager-fundraising-systems-director-major-donor-2": {
     "employer": "Senior Fundraising Systems Manager | Fundraising Systems Director (Major Donor)",

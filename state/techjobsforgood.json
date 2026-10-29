@@ -1,16 +1,4 @@
 {
-  "36534": {
-    "employer": "Faunalytics",
-    "meta": "Digital Resource Manager Faunalytics Remote (US, CAN) - $69K Information Technology Food & Agriculture Partners & Advocates Environment Faunalytics helps people help animals by providing essential research and resources to be more effective and save more animal lives. Posted 4 weeks ago | Application deadline: November 1, 2026",
-    "title": "Digital Resource Manager",
-    "url": "https://techjobsforgood.com/jobs/36534/?ref=homepage"
-  },
-  "36535": {
-    "employer": "StriveTogether",
-    "meta": "Senior Manager, Insights and Analytics StriveTogether Remote (Select US States) / Cincinnati, OH (Hybrid) - $83K - $93K Data + Analytics Economic\n                                        Development Education Human Rights & Equality Partners & Advocates StriveTogether was founded on a simple principle: Those who care about a community\u2019s children \u2014 from parents and educators to civic leaders and local employers \u2014 can accomplish more by working together than by working apart. Posted 4 weeks ago | Application deadline: November 1, 2026",
-    "title": "Senior Manager, Insights and Analytics",
-    "url": "https://techjobsforgood.com/jobs/36535/?ref=homepage"
-  },
   "36645": {
     "employer": "Teachstone",
     "meta": "Senior Software Engineer, Applied AI Teachstone Remote (US) - $160K - $180K Software Engineering Education Teachstone is an education technology company that focuses on enhancing student outcomes through effective educator interactions and proven methodologies. Posted 3 weeks ago",
@@ -40,12 +28,6 @@
     "meta": "AI Engineer Charity Navigator Remote (US) - $105K - $125K Software Engineering Partners & Advocates Charity Navigator helps millions of people take action and support the causes they care about by connecting them to the best charities that align with their passions and values. Posted 3 weeks ago",
     "title": "AI Engineer",
     "url": "https://techjobsforgood.com/jobs/36745/?ref=homepage"
-  },
-  "36752": {
-    "employer": "ChargePoint",
-    "meta": "Staff Product Manager, Fleet Software ChargePoint Remote (US) - $178K - $242K Product Clean Energy ChargePoint develops and manufactures technology for their network of electrical vehicle charging stations. Posted 3 weeks ago",
-    "title": "Staff Product Manager, Fleet Software",
-    "url": "https://techjobsforgood.com/jobs/36752/?ref=homepage"
   },
   "36786": {
     "employer": "Constructive Dialogue Institute",
@@ -119,12 +101,6 @@
     "title": "Tech Lead \u2014 Backend & Platform",
     "url": "https://techjobsforgood.com/jobs/37064/?ref=homepage"
   },
-  "37068": {
-    "employer": "Focus Consulting",
-    "meta": "Senior Software Engineer Focus Consulting Remote (US) - $135K - $170K Software Engineering Partners & Advocates Public Infrastructure Public Service & Civic Engagement Focus builds systems with government partners to deliver critical services to millions of people every day. We make sure technology works with governments and for the people it's supposed to serve. Posted 1 week ago",
-    "title": "Senior Software Engineer",
-    "url": "https://techjobsforgood.com/jobs/37068/?ref=homepage"
-  },
   "37072": {
     "employer": "Recidiviz",
     "meta": "Senior Policy Data Analyst Recidiviz Remote (US) / New York, NY / Oakland, CA - $120K Data + Analytics Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 1 week ago",
@@ -145,38 +121,62 @@
   },
   "37133": {
     "employer": "The Nature Conservancy",
-    "meta": "Managing Director, Data, AI and Applied Technology The Nature Conservancy Washington, DC/Remote (US) - $275K - $330K Data + Analytics Environment Partners & Advocates The Nature Conservancy is a global environmental nonprofit working to create a world where people and nature can thrive. Posted 6 days ago",
+    "meta": "Managing Director, Data, AI and Applied Technology The Nature Conservancy Washington, DC/Remote (US) - $275K - $330K Data + Analytics Environment Partners & Advocates The Nature Conservancy is a global environmental nonprofit working to create a world where people and nature can thrive. Posted 1 week ago",
     "title": "Managing Director, Data, AI and Applied Technology",
     "url": "https://techjobsforgood.com/jobs/37133/?ref=homepage"
   },
   "37134": {
     "employer": "Cleveland Clinic",
-    "meta": "AI Product Manager Cleveland Clinic Remote (US) - $144K - $230K Product Cleveland Clinic is a healthcare organization that provides comprehensive medical services and innovative patient care through specialized treatments and clinical research. Posted 5 days ago",
+    "meta": "AI Product Manager Cleveland Clinic Remote (US) - $144K - $230K Product Cleveland Clinic is a healthcare organization that provides comprehensive medical services and innovative patient care through specialized treatments and clinical research. Posted 6 days ago",
     "title": "AI Product Manager",
     "url": "https://techjobsforgood.com/jobs/37134/?ref=homepage"
   },
   "37135": {
     "employer": "Cleveland Clinic",
-    "meta": "Research Computing Services Manager Cleveland Clinic Remote (US) - $93K - $141K Information Technology Cleveland Clinic is a healthcare organization that provides comprehensive medical services and innovative patient care through specialized treatments and clinical research. Posted 5 days ago",
+    "meta": "Research Computing Services Manager Cleveland Clinic Remote (US) - $93K - $141K Information Technology Cleveland Clinic is a healthcare organization that provides comprehensive medical services and innovative patient care through specialized treatments and clinical research. Posted 6 days ago",
     "title": "Research Computing Services Manager",
     "url": "https://techjobsforgood.com/jobs/37135/?ref=homepage"
   },
   "37227": {
     "employer": "The Water Project",
-    "meta": "Director of Technology The Water Project Remote (US) - $140K - $160K Software Engineering Environment Health & Well-Being Economic\n                                        Development The Water Project is a non-profit organization that provides clean water solutions and promotes sustainable development through community empowerment. Posted 19 hours ago",
+    "meta": "Director of Technology The Water Project Remote (US) - $140K - $160K Software Engineering Environment Health & Well-Being Economic\n                                        Development The Water Project is a non-profit organization that provides clean water solutions and promotes sustainable development through community empowerment. Posted 1 day ago",
     "title": "Director of Technology",
     "url": "https://techjobsforgood.com/jobs/37227/?ref=homepage"
   },
+  "37264": {
+    "employer": "Unified",
+    "meta": "Lead Backend Engineer Unified Austin, TX/Remote (US) - $200K - $240K Software Engineering Public Service & Civic Engagement The social network for activism - find your place in the movement. Posted 1 day ago",
+    "title": "Lead Backend Engineer",
+    "url": "https://techjobsforgood.com/jobs/37264/?ref=homepage"
+  },
   "37267": {
     "employer": "Recidiviz",
-    "meta": "Forward-Deployed Software Engineer Recidiviz New York, NY/Oakland, CA/Remote (US) - $139K - $160K Software Engineering Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 34 minutes ago",
+    "meta": "Forward-Deployed Software Engineer Recidiviz New York, NY/Oakland, CA/Remote (US) - $139K - $160K Software Engineering Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 1 day ago",
     "title": "Forward-Deployed Software Engineer",
     "url": "https://techjobsforgood.com/jobs/37267/?ref=homepage"
   },
   "37268": {
     "employer": "Recidiviz",
-    "meta": "Impact Analytics Data Analyst Recidiviz New York, NY/Oakland, CA/Remote (US) - $97K Data + Analytics Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 32 minutes ago",
+    "meta": "Impact Analytics Data Analyst Recidiviz New York, NY/Oakland, CA/Remote (US) - $97K Data + Analytics Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 1 day ago",
     "title": "Impact Analytics Data Analyst",
     "url": "https://techjobsforgood.com/jobs/37268/?ref=homepage"
+  },
+  "37283": {
+    "employer": "Wadhwani Foundation",
+    "meta": "Vice President \u2013 Global Programs & Grants Management Wadhwani Foundation San Francisco, CA/Palo Alto, CA/Remote (US) - $300K - $350K Data + Analytics Economic\n                                        Development Wadhwani Foundation is a non-profit organization that accelerates economic development in emerging economies through entrepreneurship and skills development initiatives. Posted 22 hours ago",
+    "title": "Vice President \u2013 Global Programs & Grants Management",
+    "url": "https://techjobsforgood.com/jobs/37283/?ref=homepage"
+  },
+  "37284": {
+    "employer": "TRAILS",
+    "meta": "Product Manager TRAILS Remote (US) - $127K - $134K Product Education Health & Well-Being Founded at the University of Michigan Medical School, TRAILS (Transforming Research into Action to Improve the Lives of Students) is among the most innovative and rapidly growing school-based mental health solutions in the country. Posted 22 hours ago | Application deadline: November 8, 2026",
+    "title": "Product Manager",
+    "url": "https://techjobsforgood.com/jobs/37284/?ref=homepage"
+  },
+  "37311": {
+    "employer": "Recidiviz",
+    "meta": "Senior Product Manager Recidiviz New York, NY/Oakland, CA/Remote (US) - $155K Product Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 1 hour ago",
+    "title": "Senior Product Manager",
+    "url": "https://techjobsforgood.com/jobs/37311/?ref=homepage"
   }
 }
