@@ -1,10 +1,4 @@
 {
-  "36645": {
-    "employer": "Teachstone",
-    "meta": "Senior Software Engineer, Applied AI Teachstone Remote (US) - $160K - $180K Software Engineering Education Teachstone is an education technology company that focuses on enhancing student outcomes through effective educator interactions and proven methodologies. Posted 4 weeks ago",
-    "title": "Senior Software Engineer, Applied AI",
-    "url": "https://techjobsforgood.com/jobs/36645/?ref=homepage"
-  },
   "36679": {
     "employer": "Open Review Foundation",
     "meta": "Platform Integrity Engineer Open Review Foundation Remote (US) - $145K - $200K Software Engineering Education Public Infrastructure Partners & Advocates OpenReview\u2019s broader mission is to revolutionize scientific communication by providing innovative and extensible mechanisms transforming peer review, assessment, mentorship, discussion, and discovery. Posted 4 weeks ago",
@@ -29,9 +23,15 @@
     "title": "AI Engineer",
     "url": "https://techjobsforgood.com/jobs/36745/?ref=homepage"
   },
+  "36752": {
+    "employer": "ChargePoint",
+    "meta": "Staff Product Manager, Fleet Software ChargePoint Remote (US) - $178K - $242K Product Clean Energy ChargePoint develops and manufactures technology for their network of electrical vehicle charging stations. Posted 4 weeks ago",
+    "title": "Staff Product Manager, Fleet Software",
+    "url": "https://techjobsforgood.com/jobs/36752/?ref=homepage"
+  },
   "36786": {
     "employer": "Constructive Dialogue Institute",
-    "meta": "Senior Manager, Qualitative Evaluation and Insights Constructive Dialogue Institute New York, NY/Remote (US) - $101K - $113K Data + Analytics Education We work with institutions across the education, for-profit, non-profit, and public sectors to help them communicate across differences and build inclusive cultures. Posted 3 weeks ago",
+    "meta": "Senior Manager, Qualitative Evaluation and Insights Constructive Dialogue Institute New York, NY/Remote (US) - $101K - $113K Data + Analytics Education We work with institutions across the education, for-profit, non-profit, and public sectors to help them communicate across differences and build inclusive cultures. Posted 4 weeks ago",
     "title": "Senior Manager, Qualitative Evaluation and Insights",
     "url": "https://techjobsforgood.com/jobs/36786/?ref=homepage"
   },
@@ -61,25 +61,25 @@
   },
   "36926": {
     "employer": "Swiftly",
-    "meta": "Senior Software Engineer (Full-stack) Swiftly Remote (US / Ontario / British Columbia) - $130K - $210K Software Engineering Human Rights & Equality Public Infrastructure Climate Change Swiftly is the leading transit data platform for agencies to share real-time passenger information, manage day-to-day operations, and improve service performance. Posted 2 weeks ago",
+    "meta": "Senior Software Engineer (Full-stack) Swiftly Remote (US / Ontario / British Columbia) - $130K - $210K Software Engineering Human Rights & Equality Public Infrastructure Climate Change Swiftly is the leading transit data platform for agencies to share real-time passenger information, manage day-to-day operations, and improve service performance. Posted 3 weeks ago",
     "title": "Senior Software Engineer (Full-stack)",
     "url": "https://techjobsforgood.com/jobs/36926/?ref=homepage"
   },
   "36927": {
     "employer": "Swiftly",
-    "meta": "Senior Software Engineer (IoT) Swiftly Remote (US / Ontario / British Columbia) - $124K - $205K Software Engineering Human Rights & Equality Public Infrastructure Climate Change Swiftly is the leading transit data platform for agencies to share real-time passenger information, manage day-to-day operations, and improve service performance. Posted 2 weeks ago",
+    "meta": "Senior Software Engineer (IoT) Swiftly Remote (US / Ontario / British Columbia) - $124K - $205K Software Engineering Human Rights & Equality Public Infrastructure Climate Change Swiftly is the leading transit data platform for agencies to share real-time passenger information, manage day-to-day operations, and improve service performance. Posted 3 weeks ago",
     "title": "Senior Software Engineer (IoT)",
     "url": "https://techjobsforgood.com/jobs/36927/?ref=homepage"
   },
   "36943": {
     "employer": "Intertribal Software",
-    "meta": "Director, Business Development Intertribal Software Remote (US) - $80K - $90K Digital Marketing Partners & Advocates Our mission is to be the most trusted technology partner for Tribal Nations, by providing sustainable and high qualty enterprise software to support each Tribe's unique vision, culture, and values. Posted 2 weeks ago",
+    "meta": "Director, Business Development Intertribal Software Remote (US) - $80K - $90K Data + Analytics Partners & Advocates Our mission is to be the most trusted technology partner for Tribal Nations, by providing sustainable and high qualty enterprise software to support each Tribe's unique vision, culture, and values. Posted 3 weeks ago",
     "title": "Director, Business Development",
     "url": "https://techjobsforgood.com/jobs/36943/?ref=homepage"
   },
   "36947": {
     "employer": "Constructive Dialogue Institute",
-    "meta": "Software Engineer (Early Career) Constructive Dialogue Institute New York, NY/Remote (US) - $72K - $82K Software Engineering Education We work with institutions across the education, for-profit, non-profit, and public sectors to help them communicate across differences and build inclusive cultures. Posted 2 weeks ago",
+    "meta": "Software Engineer (Early Career) Constructive Dialogue Institute New York, NY/Remote (US) - $72K - $82K Software Engineering Education We work with institutions across the education, for-profit, non-profit, and public sectors to help them communicate across differences and build inclusive cultures. Posted 3 weeks ago",
     "title": "Software Engineer (Early Career)",
     "url": "https://techjobsforgood.com/jobs/36947/?ref=homepage"
   },
@@ -115,7 +115,7 @@
   },
   "37133": {
     "employer": "The Nature Conservancy",
-    "meta": "Managing Director, Data, AI and Applied Technology The Nature Conservancy Washington, DC/Remote (US) - $275K - $330K Data + Analytics Environment Partners & Advocates The Nature Conservancy is a global environmental nonprofit working to create a world where people and nature can thrive. Posted 1 week ago",
+    "meta": "Managing Director, Data, AI and Applied Technology The Nature Conservancy Washington, DC/Remote (US) - $275K - $330K Data + Analytics Environment Partners & Advocates The Nature Conservancy is a global environmental nonprofit working to create a world where people and nature can thrive. Posted 2 weeks ago",
     "title": "Managing Director, Data, AI and Applied Technology",
     "url": "https://techjobsforgood.com/jobs/37133/?ref=homepage"
   },
@@ -133,49 +133,49 @@
   },
   "37227": {
     "employer": "The Water Project",
-    "meta": "Director of Technology The Water Project Remote (US) - $140K - $160K Software Engineering Environment Health & Well-Being Economic\n                                        Development The Water Project is a non-profit organization that provides clean water solutions and promotes sustainable development through community empowerment. Posted 4 days ago",
+    "meta": "Director of Technology The Water Project Remote (US) - $140K - $160K Software Engineering Environment Health & Well-Being Economic\n                                        Development The Water Project is a non-profit organization that provides clean water solutions and promotes sustainable development through community empowerment. Posted 6 days ago",
     "title": "Director of Technology",
     "url": "https://techjobsforgood.com/jobs/37227/?ref=homepage"
   },
   "37264": {
     "employer": "Unified",
-    "meta": "Lead Backend Engineer Unified Austin, TX/Remote (US) - $200K - $240K Software Engineering Public Service & Civic Engagement The social network for activism - find your place in the movement. Posted 4 days ago",
+    "meta": "Lead Backend Engineer Unified Austin, TX/Remote (US) - $200K - $240K Software Engineering Public Service & Civic Engagement The social network for activism - find your place in the movement. Posted 5 days ago",
     "title": "Lead Backend Engineer",
     "url": "https://techjobsforgood.com/jobs/37264/?ref=homepage"
   },
   "37267": {
     "employer": "Recidiviz",
-    "meta": "Forward-Deployed Software Engineer Recidiviz New York, NY/Oakland, CA/Remote (US) - $139K - $160K Software Engineering Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 4 days ago",
+    "meta": "Forward-Deployed Software Engineer Recidiviz New York, NY/Oakland, CA/Remote (US) - $139K - $160K Software Engineering Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 5 days ago",
     "title": "Forward-Deployed Software Engineer",
     "url": "https://techjobsforgood.com/jobs/37267/?ref=homepage"
   },
   "37268": {
     "employer": "Recidiviz",
-    "meta": "Impact Analytics Data Analyst Recidiviz New York, NY/Oakland, CA/Remote (US) - $97K Data + Analytics Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 4 days ago",
+    "meta": "Impact Analytics Data Analyst Recidiviz New York, NY/Oakland, CA/Remote (US) - $97K Data + Analytics Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 5 days ago",
     "title": "Impact Analytics Data Analyst",
     "url": "https://techjobsforgood.com/jobs/37268/?ref=homepage"
   },
   "37283": {
     "employer": "Wadhwani Foundation",
-    "meta": "Vice President \u2013 Global Programs & Grants Management Wadhwani Foundation San Francisco, CA/Palo Alto, CA/Remote (US) - $300K - $350K Data + Analytics Economic\n                                        Development Wadhwani Foundation is a non-profit organization that accelerates economic development in emerging economies through entrepreneurship and skills development initiatives. Posted 4 days ago",
+    "meta": "Vice President \u2013 Global Programs & Grants Management Wadhwani Foundation San Francisco, CA/Palo Alto, CA/Remote (US) - $300K - $350K Data + Analytics Economic\n                                        Development Wadhwani Foundation is a non-profit organization that accelerates economic development in emerging economies through entrepreneurship and skills development initiatives. Posted 5 days ago",
     "title": "Vice President \u2013 Global Programs & Grants Management",
     "url": "https://techjobsforgood.com/jobs/37283/?ref=homepage"
   },
   "37284": {
     "employer": "TRAILS",
-    "meta": "Product Manager TRAILS Remote (US) - $127K - $134K Product Education Health & Well-Being Founded at the University of Michigan Medical School, TRAILS (Transforming Research into Action to Improve the Lives of Students) is among the most innovative and rapidly growing school-based mental health solutions in the country. Posted 4 days ago | Application deadline: November 8, 2026",
+    "meta": "Product Manager TRAILS Remote (US) - $127K - $134K Product Education Health & Well-Being Founded at the University of Michigan Medical School, TRAILS (Transforming Research into Action to Improve the Lives of Students) is among the most innovative and rapidly growing school-based mental health solutions in the country. Posted 5 days ago | Application deadline: November 8, 2026",
     "title": "Product Manager",
     "url": "https://techjobsforgood.com/jobs/37284/?ref=homepage"
   },
   "37311": {
     "employer": "Recidiviz",
-    "meta": "Senior Product Manager Recidiviz New York, NY/Oakland, CA/Remote (US) - $155K Product Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 3 days ago",
+    "meta": "Senior Product Manager Recidiviz New York, NY/Oakland, CA/Remote (US) - $155K Product Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 4 days ago",
     "title": "Senior Product Manager",
     "url": "https://techjobsforgood.com/jobs/37311/?ref=homepage"
   },
   "37351": {
     "employer": "Electrify America",
-    "meta": "Software Developer II - Backend Electrify America Remote (US) - $92K - $166K Software Engineering Clean Energy Electrify America is an electric vehicle charging infrastructure provider that aims to promote clean energy and sustainable transportation. Posted 2 days ago",
+    "meta": "Software Developer II - Backend Electrify America Remote (US) - $92K - $166K Software Engineering Clean Energy Electrify America is an electric vehicle charging infrastructure provider that aims to promote clean energy and sustainable transportation. Posted 3 days ago",
     "title": "Software Developer II - Backend",
     "url": "https://techjobsforgood.com/jobs/37351/?ref=homepage"
   }
