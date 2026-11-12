@@ -56,3 +56,4 @@ Add an entry to `config.json`:
 **Optional fields:**
 - `title_css_class` — CSS class of the element containing the job title within the link
 - `employer_css_class` — CSS class of the element containing the employer name
+- `enabled` — set to `false` to skip a site without deleting its config or state (e.g. while it is blocked)

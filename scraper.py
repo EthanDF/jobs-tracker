@@ -168,6 +168,9 @@ def main():
 
     for site in config["sites"]:
         name = site["name"]
+        if not site.get("enabled", True):
+            print(f"Skipping (disabled): {name}")
+            continue
         print(f"Checking: {name}")
 
         try:

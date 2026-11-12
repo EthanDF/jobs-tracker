@@ -15,7 +15,9 @@
       "base_url": "https://www.progressivedatajobs.org",
       "job_link_pattern": "/job-posting/",
       "id_source": "slug",
-      "state_file": "state/progressivedatajobs.json"
+      "state_file": "state/progressivedatajobs.json",
+      "enabled": false,
+      "disabled_reason": "Cloudflare bot challenge (403) since ~2026-10-01; emailed site owner 2026-11-12. Check manually."
     },
     {
       "name": "Tech Jobs for Good",
