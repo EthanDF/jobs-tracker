@@ -1,22 +1,4 @@
 {
-  "36679": {
-    "employer": "Open Review Foundation",
-    "meta": "Platform Integrity Engineer Open Review Foundation Remote (US) - $145K - $200K Software Engineering Education Public Infrastructure Partners & Advocates OpenReview\u2019s broader mission is to revolutionize scientific communication by providing innovative and extensible mechanisms transforming peer review, assessment, mentorship, discussion, and discovery. Posted 1 month ago",
-    "title": "Platform Integrity Engineer",
-    "url": "https://techjobsforgood.com/jobs/36679/?ref=homepage"
-  },
-  "37072": {
-    "employer": "Recidiviz",
-    "meta": "Senior Policy Data Analyst Recidiviz Remote (US) / New York, NY / Oakland, CA - $120K Data + Analytics Human Rights & Equality Recidiviz is a non-profit technology company based in San Francisco, CA. We build common, open source technical infrastructure to help the criminal justice system end mass incarceration and focus on ongoing iteration towards better outcomes (both for the public and the individuals in the system). Posted 4 weeks ago",
-    "title": "Senior Policy Data Analyst",
-    "url": "https://techjobsforgood.com/jobs/37072/?ref=homepage"
-  },
-  "37073": {
-    "employer": "UpMetrics",
-    "meta": "Senior Product Designer UpMetrics Remote (US) / San Francisco, CA (preferred) - $120K - $145K Design + UX Partners & Advocates Leading social impact reporting platform Posted 4 weeks ago",
-    "title": "Senior Product Designer",
-    "url": "https://techjobsforgood.com/jobs/37073/?ref=homepage"
-  },
   "37135": {
     "employer": "Cleveland Clinic",
     "meta": "Research Computing Services Manager Cleveland Clinic Remote (US) - $93K - $141K Information Technology Cleveland Clinic is a healthcare organization that provides comprehensive medical services and innovative patient care through specialized treatments and clinical research. Posted 4 weeks ago",
@@ -71,12 +53,6 @@
     "title": "Program Evaluator",
     "url": "https://techjobsforgood.com/jobs/37420/?ref=homepage"
   },
-  "37444": {
-    "employer": "ROI Solutions, Inc",
-    "meta": "Senior Oracle Database Administrator ROI Solutions, Inc Medford, MA / Boston, MA / Remote (Select US States) - $140K - $150K Data + Analytics Partners & Advocates ROI Solutions is a nonprofit technology solutions provider. We provide the best products and services that enable nonprofits to solve the world\u2019s problems. This is our singular focus. Posted 2 weeks ago",
-    "title": "Senior Oracle Database Administrator",
-    "url": "https://techjobsforgood.com/jobs/37444/?ref=homepage"
-  },
   "37454": {
     "employer": "ProPublica",
     "meta": "Product Engineer, Membership and Front-End ProPublica Remote (US) / New York, NY (Hybrid) - $120K - $145K Software Engineering Public Service & Civic Engagement Public Infrastructure Partners & Advocates ProPublica is an independent, nonprofit newsroom that produces investigative journalism with moral force. We dig deep into important issues, shining a light on abuses of power and betrayals of public trust \u2014 and we stick with those issues as long as it takes to hold power to account. Posted 2 weeks ago",
@@ -95,6 +71,12 @@
     "title": "Engagement Manager",
     "url": "https://techjobsforgood.com/jobs/37559/?ref=homepage"
   },
+  "37560": {
+    "employer": "Open Finance Consortium",
+    "meta": "Executive Director Open Finance Consortium Remote (within 5 hours of GMT) - $120K - $150K Other Partners & Advocates We are a nonprofit 501(c)(6) community-governed membership organization alliance of Fiscal Hosts and public-interest organizations. Together, we maintain and govern the \"classic\" Open Collective Platform to support transparent, participatory finance for the commons. Posted 2 weeks ago",
+    "title": "Executive Director",
+    "url": "https://techjobsforgood.com/jobs/37560/?ref=homepage"
+  },
   "37772": {
     "employer": "Honor",
     "meta": "Sr Staff Product Designer Honor Remote (US) - $195K - $217K Product Health & Well-Being Honor leads the world\u2019s largest home care network with the most advanced care platform. We\u2019re revolutionizing how society cares for older adults, their families, and Care Professionals. Posted 1 week ago",
@@ -109,7 +91,7 @@
   },
   "37787": {
     "employer": "OpenTent",
-    "meta": "Process Consultant OpenTent Remote (US) / New York, NY / Denver, CO - $90K - $115K Product Partners & Advocates OpenTent builds relationship-driven Salesforce systems for community-oriented nonprofit teams. Posted 1 week ago | Application deadline: January 9, 2027",
+    "meta": "Process Consultant OpenTent Remote (US) / New York, NY / Denver, CO - $90K - $115K Product Partners & Advocates OpenTent builds relationship-driven Salesforce systems for community-oriented nonprofit teams. Posted 2 weeks ago | Application deadline: January 9, 2027",
     "title": "Process Consultant",
     "url": "https://techjobsforgood.com/jobs/37787/?ref=homepage"
   },
@@ -119,12 +101,6 @@
     "title": "Remote Engineer Team Lead",
     "url": "https://techjobsforgood.com/jobs/37797/?ref=homepage"
   },
-  "37822": {
-    "employer": "Change Agent",
-    "meta": "Software Engineer Change Agent Remote (US) - $80K - $110K Software Engineering Partners & Advocates Change Agent empowers people and organizations working for social good to achieve transformational change through ethical AI. Our vision: a world where technology serves people, not profit \u2014 and the future belongs to those committed to social good. Posted 1 week ago | Application deadline: November 19, 2026",
-    "title": "Software Engineer",
-    "url": "https://techjobsforgood.com/jobs/37822/?ref=homepage"
-  },
   "37877": {
     "employer": "jscreen",
     "meta": "Senior Product & GTM Engineer jscreen Remote (US) / Atlanta, GA - $135K - $165K Software Engineering Health & Well-Being jscreen\u00ae is a national non-profit organization committed to the prevention of genetic diseases through at-home, affordable, cutting-edge genetic testing and counseling. Posted 1 week ago",
@@ -133,50 +109,50 @@
   },
   "37899": {
     "employer": "Rune Labs",
-    "meta": "Senior or Lead Backend Engineer Rune Labs Remote (US/Canada) - $175K - $210K Software Engineering Health & Well-Being Partners & Advocates Leading precision neurology in Parkinson\u2019s Disease. Posted 6 days ago",
+    "meta": "Senior or Lead Backend Engineer Rune Labs Remote (US/Canada) - $175K - $210K Software Engineering Health & Well-Being Partners & Advocates Leading precision neurology in Parkinson\u2019s Disease. Posted 1 week ago",
     "title": "Senior or Lead Backend Engineer",
     "url": "https://techjobsforgood.com/jobs/37899/?ref=homepage"
   },
   "37926": {
     "employer": "Zocdoc",
-    "meta": "Director, Marketing Data Science Zocdoc New York, NY/Silicon Valley, CA/Remote (US) - $220K - $300K Data + Analytics Health & Well-Being We created Zocdoc to solve patient problems, beginning with online appointment-booking \u2013 and we haven\u2019t stopped building since. With Zocdoc, you can see doctors\u2019 open appointment times and book instantly online, make informed choices with verified reviews, and stay on top of important checkups with tailored reminders. Posted 6 days ago",
+    "meta": "Director, Marketing Data Science Zocdoc New York, NY/Silicon Valley, CA/Remote (US) - $220K - $300K Data + Analytics Health & Well-Being We created Zocdoc to solve patient problems, beginning with online appointment-booking \u2013 and we haven\u2019t stopped building since. With Zocdoc, you can see doctors\u2019 open appointment times and book instantly online, make informed choices with verified reviews, and stay on top of important checkups with tailored reminders. Posted 7 days ago",
     "title": "Director, Marketing Data Science",
     "url": "https://techjobsforgood.com/jobs/37926/?ref=homepage"
   },
   "37929": {
     "employer": "Thorn",
-    "meta": "Staff Machine Learning Engineer Thorn Remote (US) - $171K - $236K Software Engineering Human Rights & Equality Partners & Advocates We build technology to defend children from sexual abuse. Posted 5 days ago",
+    "meta": "Staff Machine Learning Engineer Thorn Remote (US) - $171K - $236K Software Engineering Human Rights & Equality Partners & Advocates We build technology to defend children from sexual abuse. Posted 6 days ago",
     "title": "Staff Machine Learning Engineer",
     "url": "https://techjobsforgood.com/jobs/37929/?ref=homepage"
   },
   "37965": {
     "employer": "Gifted Savings",
-    "meta": "Senior Software Development Engineer, Full Stack Gifted Savings Remote (US) - $170K - $200K Software Engineering Education Economic\n                                        Development We make the direct gifting of investment assets simple and rewarding, empowering people to create their own opportunities. Posted 3 days ago",
+    "meta": "Senior Software Development Engineer, Full Stack Gifted Savings Remote (US) - $170K - $200K Software Engineering Education Economic\n                                        Development We make the direct gifting of investment assets simple and rewarding, empowering people to create their own opportunities. Posted 4 days ago",
     "title": "Senior Software Development Engineer, Full Stack",
     "url": "https://techjobsforgood.com/jobs/37965/?ref=homepage"
   },
   "38047": {
     "employer": "Guild",
-    "meta": "Senior Digital and Web Marketing Manager Guild Remote (US) - $120K - $150K Digital Marketing Education Economic\n                                        Development As the leader in education benefits, Guild offers the single most scalable solution for preparing the workforce of today for the jobs of tomorrow. Posted 1 day ago",
+    "meta": "Senior Digital and Web Marketing Manager Guild Remote (US) - $120K - $150K Digital Marketing Education Economic\n                                        Development As the leader in education benefits, Guild offers the single most scalable solution for preparing the workforce of today for the jobs of tomorrow. Posted 2 days ago",
     "title": "Senior Digital and Web Marketing Manager",
     "url": "https://techjobsforgood.com/jobs/38047/?ref=homepage"
   },
-  "38059": {
-    "employer": "BrightVine Solutions",
-    "meta": "Account Executive BrightVine Solutions Remote - $75K - $140K Information Technology Partners & Advocates BrightVine Solutions helps nonprofits maximize their impact through innovative CRM solutions, data integration, and digital transformation. We empower mission-driven organizations to work smarter, improve efficiency, and focus on what matters most: their missions. Posted 1 hour ago | Application deadline: December 16, 2026",
-    "title": "Account Executive",
-    "url": "https://techjobsforgood.com/jobs/38059/?ref=homepage"
-  },
   "38060": {
     "employer": "Friends From The City",
-    "meta": "Senior Frontend Developer Friends From The City Remote - CONUS - $152K Software Engineering Partners & Advocates Public Infrastructure Public Service & Civic Engagement We\u2019re a fully remote design and software engineering firm that believes modern technology and the government shouldn't be mutually exclusive. We're here to push the boundaries of civic tech innovation through meaningful work.\u200b Posted 1 hour ago",
+    "meta": "Senior Frontend Developer Friends From The City Remote (US) - $152K Software Engineering Partners & Advocates Public Infrastructure Public Service & Civic Engagement We\u2019re a fully remote design and software engineering firm that believes modern technology and the government shouldn't be mutually exclusive. We're here to push the boundaries of civic tech innovation through meaningful work.\u200b Posted 1 day ago | Application deadline: January 19, 2027",
     "title": "Senior Frontend Developer",
     "url": "https://techjobsforgood.com/jobs/38060/?ref=homepage"
   },
   "38061": {
     "employer": "Friends From The City",
-    "meta": "Senior Product Manager Friends From The City Remote - CONUS - $158K Product Partners & Advocates Public Infrastructure Public Service & Civic Engagement We\u2019re a fully remote design and software engineering firm that believes modern technology and the government shouldn't be mutually exclusive. We're here to push the boundaries of civic tech innovation through meaningful work.\u200b Posted 1 hour ago",
+    "meta": "Senior Product Manager Friends From The City Remote (US) - $158K Product Partners & Advocates Public Infrastructure Public Service & Civic Engagement We\u2019re a fully remote design and software engineering firm that believes modern technology and the government shouldn't be mutually exclusive. We're here to push the boundaries of civic tech innovation through meaningful work.\u200b Posted 19 hours ago | Application deadline: January 19, 2027",
     "title": "Senior Product Manager",
     "url": "https://techjobsforgood.com/jobs/38061/?ref=homepage"
+  },
+  "38062": {
+    "employer": "Education Analytics",
+    "meta": "Data Engineer Education Analytics Remote (US) / Madison, WI (Hybrid) - $100K - $125K Data + Analytics Education Partners & Advocates As a mission-driven non-profit, we use data and analytics to improve outcomes for students and the education system. Education Analytics conducts research and develops rigorous analytics that support actionable solutions and drive continuous improvement that leads to success for all students. Posted 21 hours ago | Application deadline: January 19, 2027",
+    "title": "Data Engineer",
+    "url": "https://techjobsforgood.com/jobs/38062/?ref=homepage"
   }
 }
